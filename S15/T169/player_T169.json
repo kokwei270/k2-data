@@ -1,0 +1,38 @@
+{
+  "decision_files": [
+    "decision_nouvelle 1.xlsx",
+    "decision_nouvelle 2.xlsx",
+    "decision_nouvelle 3.xlsx",
+    "decision_nouvelle 4.xlsx",
+    "decision_nouvelle 5.xlsx",
+    "decision_nouvelle 6.xlsx",
+    "decision_nouvelle 7.xlsx"
+  ],
+  "status": {
+    "month_state": "NEW",
+    "month_state_str": "NEW",
+    "curr_month": 0,
+    "curr_month_str": "Aug 2024",
+    "month_str_list": [
+      "Aug 2024"
+    ],
+    "begin_end": "",
+    "decision_loaded": false,
+    "count_load": 0,
+    "count_edit": 0,
+    "count_cancel": 0,
+    "count_login": 0,
+    "dump_month": 0,
+    "max_retry": 3,
+    "last_decision": 7,
+    "start_month": "Sep 2024"
+  },
+  "options_list": [
+    "show_all_errors",
+    "allow_edit",
+    "apply_event",
+    "error_pass_through",
+    "allow_rewffw",
+    "step_month"
+  ]
+}

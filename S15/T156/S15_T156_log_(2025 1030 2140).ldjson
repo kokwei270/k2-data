@@ -1,0 +1,31 @@
+{"el":"4d 13:17 15","tp":1,"tr":"login","ms":"player login, count_login=0","dt":"(2025 1104 1057)","ts":1762225046690}
+{"el":"4d 13:17 15","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1104 1057)","ts":1762225046696}
+{"el":"4d 13:17 15","tp":10,"tr":"system","ms":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1104 1057)","ts":1762225046716}
+{"el":"4d 13:17 15","tp":8,"tr":"config","ms":"options_list=show_all_errors,allow_edit,use_short_text","dt":"(2025 1104 1057)","ts":1762225046717}
+{"el":"4d 13:17 16","tp":10,"tr":"system","ms":"http_player /update_month/on_init","dt":"(2025 1104 1057)","ts":1762225047726}
+{"el":"4d 13:17 16","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1104 1057)","ts":1762225047726}
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T156/S15_T156_state_0.json","dt":"(2025 1105 1906)","ts":1762340778773}
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1105 1906)","ts":1762340778775}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: -, costs: 937 661 €","dt":"(2025 1105 1906)","ts":1762340778803}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 418 000 €, costs: 948 684 €","dt":"(2025 1105 1906)","ts":1762340778806}
+{"el":"5d 21:26 7","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1105 1906)","ts":1762340778807}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1105 1906)","ts":1762340778808}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567144}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567151}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567156}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567159}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567163}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567166}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567169}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567172}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567175}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567178}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567181}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567184}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567188}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T156/S15_T156_state_0.json","dt":"(2025 1106 0831)","ts":1762389116283}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T156_decision_1\", file found:","dt":"(2025 1106 0831)","ts":1762389116285}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: -, costs: 937 661 €","dt":"(2025 1106 0831)","ts":1762389116315}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 418 000 €, costs: 948 684 €","dt":"(2025 1106 0831)","ts":1762389116317}
+{"el":"6d 10:51 45","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1106 0831)","ts":1762389116318}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1106 0831)","ts":1762389116320}

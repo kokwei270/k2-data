@@ -1,0 +1,21 @@
+{  "kiwi":"v2",
+   "id": 14, 
+   "ref": "Dev 2024 Noel@Vesoul",
+   "name": "Noel 2024, initiation",
+
+   "state_file": "S14_initial_state_moscow",
+   "last_decision": 7,
+
+   "remarks": "first entry for kiwi2 demo prototype",
+   "admin": "pf",
+   "pin_code": "4567",
+   "player_list": [
+      { "id":135, "player_ref":"Team 1", "player_name":"", "members":[]},
+      { "id":136, "player_ref":"Team 2", "player_name":"", "members":[]},
+      { "id":137, "player_ref":"Team 3", "player_name":"", "members":[]},
+      { "id":138, "player_ref":"Team 4", "player_name":"", "members":[]},
+      { "id":139, "player_ref":"Team 5", "player_name":"", "members":[]},
+      { "id":140, "player_ref":"Team 6", "player_name":"", "members":[]},
+      { "id":141, "player_ref":"Team 7", "player_name":"", "members":[]}
+   ]
+}

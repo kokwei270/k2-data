@@ -1,0 +1,25 @@
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T167/S15_T167_state_0.json","dt":"(2025 1105 1906)","ts":1762340779020}
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1105 1906)","ts":1762340779021}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: -, costs: 278 878 €","dt":"(2025 1105 1906)","ts":1762340779035}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 395 200 €, costs: 289 108 €","dt":"(2025 1105 1906)","ts":1762340779036}
+{"el":"5d 21:26 7","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1105 1906)","ts":1762340779036}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1105 1906)","ts":1762340779037}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567148}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567154}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567157}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567161}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567164}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567167}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567171}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567174}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567177}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567180}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567183}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567186}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567189}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T167/S15_T167_state_0.json","dt":"(2025 1106 0831)","ts":1762389116542}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T167_decision_1\", file found:","dt":"(2025 1106 0831)","ts":1762389116543}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: -, costs: 278 878 €","dt":"(2025 1106 0831)","ts":1762389116553}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 395 200 €, costs: 289 108 €","dt":"(2025 1106 0831)","ts":1762389116554}
+{"el":"6d 10:51 45","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1106 0831)","ts":1762389116555}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1106 0831)","ts":1762389116556}

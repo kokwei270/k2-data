@@ -1,0 +1,36 @@
+{  "kiwi":"v2",
+   "id": 16, 
+   "ref": "Vesoul 2025 @Vesoul",
+   "name": "Vesoul, with Belgium and Finland, 18-21 Mar 2025",
+
+   "state_file": "starting situation (2025)",
+   "transport_file": "params transport (2025)",
+   "demand_file": "demand (2025)",
+   "distances_file": "distances (kemijarvi)",
+   "factory_file": "params factory (standard)",
+
+   "last_decision": 7,
+   "max_retry": 3,
+   "start_month": "Mar 2025",
+   "storage_cost_percent": 2,
+      
+   "remarks": "Joint groups, Belgium, Finland, France",
+
+   "warehouse_list": [ "arnhem factory", "vesoul factory",
+      "berlin", "bucharest", "budapest", "kemijarvi", "madrid",
+      "milan", "paris", "rauma", "rome", "warsaw"
+   ],
+   "factory_list": [ "arnhem", "vesoul", "auckland" ],
+   "lorry_list": [ "lorry 1", "lorry 2", "lorry 3" ],
+   "player_list":[
+      { "id":175, "player_ref":"Team 1" },
+      { "id":176, "player_ref":"Team 2" },
+      { "id":177, "player_ref":"Team 3" },
+      { "id":178, "player_ref":"Team 4" },
+      { "id":179, "player_ref":"Team 5" },
+      { "id":180, "player_ref":"Team 6" },
+      { "id":181, "player_ref":"Team 7" },
+      { "id":182, "player_ref":"Team 8" },
+      { "id":183, "player_ref":"Team 9" }
+   ]
+}

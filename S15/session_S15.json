@@ -1,0 +1,228 @@
+{
+  "kiwi": "v2",
+  "id": 15,
+  "ref": "Vesoul 2024 @Thursday",
+  "name": "prototyping with Thursday 2024",
+  "storage_cost_percent": 2,
+  "last_decision": 7,
+  "start_month": "Sep 2024",
+  "remarks": "next one is for formal demo",
+  "setup_files": {
+      "state_file": "S15_initial_state_thursday_2024",
+      "transport_file": "S15_transport_kemijarvi",
+      "demand_file": "S15_demand",
+      "distances_file": "S15_distances",
+      "factory_file": "S14_factory",
+      "members_file": "members_s15"
+  },
+  "warehouse_list": [
+    "arnhem factory",
+    "vesoul factory",
+    "berlin",
+    "bucharest",
+    "budapest",
+    "kemijarvi",
+    "madrid",
+    "milan",
+    "paris",
+    "rauma",
+    "rome",
+    "warsaw"
+  ],
+  "factory_list": [
+    "arnhem",
+    "vesoul",
+    "auckland"
+  ],
+  "lorry_list": [
+    "lorry 1",
+    "lorry 2",
+    "lorry 3"
+  ],
+  "player_list": [
+    {
+      "id": 155,
+      "player_ref": "Team 1"
+    },
+    {
+      "id": 156,
+      "player_ref": "Team 2"
+    },
+    {
+      "id": 157,
+      "player_ref": "Team 3"
+    },
+    {
+      "id": 158,
+      "player_ref": "Team 4"
+    },
+    {
+      "id": 159,
+      "player_ref": "Team 5"
+    },
+    {
+      "id": 160,
+      "player_ref": "Team 6"
+    },
+    {
+      "id": 161,
+      "player_ref": "Team 7"
+    },
+    {
+      "id": 162,
+      "player_ref": "Team 8"
+    },
+    {
+      "id": 163,
+      "player_ref": "Team 9"
+    },
+    {
+      "id": 164,
+      "player_ref": "Team 10"
+    },
+    {
+      "id": 165,
+      "player_ref": "Team 11"
+    },
+    {
+      "id": 166,
+      "player_ref": "Team 12"
+    },
+    {
+      "id": 167,
+      "player_ref": "Team 13"
+    },
+    {
+      "id": 168,
+      "player_ref": "Team 14"
+    },
+    {
+      "id": 169,
+      "player_ref": "Team 15"
+    },
+    {
+      "id": 170,
+      "player_ref": "Team 16"
+    },
+    {
+      "id": 171,
+      "player_ref": "Team 17"
+    },
+    {
+      "id": 172,
+      "player_ref": "Team 18"
+    },
+    {
+      "id": 173,
+      "player_ref": "Team 19"
+    },
+    {
+      "id": 174,
+      "player_ref": "Team 20"
+    }
+  ],
+  "events_list": [
+    {
+      "month": 8,
+      "event": "Transport_Cannot_Use_Lorry",
+      "params": {
+        "lorry": "lorry 1"
+      },
+      "explain": "lorry had a bad accident and need extensive repairs"
+    },
+    {
+      "month": 8,
+      "event": "Transport_Cannot_Reach_Location",
+      "params": {
+        "location": "kemijarvi"
+      },
+      "explain": "freak snow storm blocked all road accesses to the town"
+    },
+    {
+      "month": 8,
+      "event": "Shipping_Cannot_Leave_Port",
+      "explain": "freak hurricane shut down the port of Auckland"
+    },
+    {
+      "month": 8,
+      "event": "Shipping_Cannot_Arrive_Port",
+      "explain": "freak hurricane shut down the port of Rotterdam"
+    },
+    {
+      "month": 8,
+      "event": "Ship_Cargo_Lost",
+      "params": {
+        "location": "vesoul",
+        "item": "concentrate_bin"
+      },
+      "explain": "an accident happened en route, your cargo was lost at sea"
+    },
+    {
+      "month": 8,
+      "event": "Production_Cannot_Run_Process",
+      "params": {
+        "location": "vesoul",
+        "process": "cordial_packaging"
+      },
+      "explain": "an accident happened at the production line"
+    },
+    {
+      "month": 8,
+      "event": "Purchase_No_Stock",
+      "params": {
+        "location": "vesoul",
+        "item": "concentrate_bin"
+      },
+      "explain": "supplier had a logistic breakdown"
+    },
+    {
+      "month": 8,
+      "event": "Staff_Cannot_Layoff",
+      "params": {
+        "location": "vesoul"
+      },
+      "explain": "union raised objection"
+    },
+    {
+      "month": 8,
+      "event": "Warehouse_Stock_Destroyed",
+      "params": {
+        "location": "paris"
+      },
+      "explain": "warehouse caught fire during riot in town"
+    },
+    {
+      "month": 8,
+      "event": "Warehouse_No_Sales",
+      "params": {
+        "location": "madrid"
+      },
+      "explain": "street protest turned violent, customers cannot reach the warehouse"
+    },
+    {
+      "month": 8,
+      "event": "FactoryStock_Destroyed",
+      "params": {
+        "location": "arnhem",
+        "item": "concentrate_bin"
+      },
+      "explain": "the sky is falling"
+    },
+    {
+      "month": 8,
+      "event": "FactorySales_No_Sales",
+      "params": {
+        "location": "auckland"
+      },
+      "explain": "no customer come to factory sales :("
+    },
+    {
+      "month": 8,
+      "event": "Null",
+      "explain": "the sky is falling down"
+    }
+  ],
+  "standby_list": [],
+  "session_ts": 1764573102054,
+  "session_datetime": "(2025 1201 1511)"
+}

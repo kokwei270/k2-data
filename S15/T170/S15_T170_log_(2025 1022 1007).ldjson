@@ -1,0 +1,192 @@
+{"tp":7,"ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","el":"2d 6:45","dt":"(2025 1024 1652)","ts":1761295972939}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","el":"2d 6:45","dt":"(2025 1024 1652)","ts":1761295972939}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","el":"2d 6:45","dt":"(2025 1024 1652)","ts":1761295972940}
+{"tp":2,"ms":"month=1 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1652)","ts":1761295972941}
+{"tp":3,"ms":">>> ffw ended","el":"2d 6:45","dt":"(2025 1024 1652)","ts":1761295972942}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993016}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993017}
+{"tp":2,"ms":"month=2 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993018}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 307 890 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993030}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 422 600 €, costs: 319 345 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993031}
+{"tp":2,"ms":"month=3 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993032}
+{"tp":7,"ms":"   > error msg to list: *** Production (err321) (order 1068) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 24 (qty consumed) remain -4 (qty avail)","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993043}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 381 197 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993043}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 403 600 €, costs: 392 065 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993044}
+{"tp":2,"ms":"month=4 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993046}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 322 505 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993057}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 401 700 €, costs: 331 933 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993058}
+{"tp":2,"ms":"month=5 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993060}
+{"tp":7,"ms":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -4 (qty avail)","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993073}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 290 787 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993074}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 305 700 €, costs: 298 183 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993075}
+{"tp":2,"ms":"month=6 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993077}
+{"tp":7,"ms":"   > error msg to list: *** Production (err321) (order 1125) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 16 (qty consumed) remain -4 (qty avail)","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993088}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: 340 000 €, costs: 283 976 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993089}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 516 200 €, costs: 291 142 €","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993090}
+{"tp":2,"ms":"month=7 life_cycle=CONFIRMED","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993092}
+{"tp":3,"ms":">>> ffw ended","el":"2d 6:45","dt":"(2025 1024 1653)","ts":1761295993094}
+{"tp":7,"ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475276659}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475276659}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475276660}
+{"tp":2,"ms":"month=1 life_cycle=CONFIRMED","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475276661}
+{"tp":3,"ms":">>> ffw ended","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475276661}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475277576}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475277577}
+{"tp":2,"ms":"month=2 life_cycle=CONFIRMED","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475277577}
+{"tp":3,"ms":">>> ffw ended","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475277578}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 307 890 €","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475278989}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 422 600 €, costs: 319 345 €","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475278990}
+{"tp":2,"ms":"month=3 life_cycle=CONFIRMED","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475278991}
+{"tp":3,"ms":">>> ffw ended","el":"4d 8:33","dt":"(2025 1026 1841)","ts":1761475278992}
+{"tp":7,"ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","el":"4d 8:42","dt":"(2025 1026 1849)","ts":1761475791594}
+{"tp":3,"ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","el":"4d 8:42","dt":"(2025 1026 1849)","ts":1761475791594}
+{"tp":3,"ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","el":"4d 8:42","dt":"(2025 1026 1849)","ts":1761475791595}
+{"tp":2,"ms":"month=1 life_cycle=CONFIRMED","el":"4d 8:42","dt":"(2025 1026 1849)","ts":1761475791595}
+{"tp":3,"ms":">>> ffw ended","el":"4d 8:42","dt":"(2025 1026 1849)","ts":1761475791596}
+{"tp":7,"el":"5d 1:54","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1202)","ts":1761537730261}
+{"tp":3,"el":"5d 1:54","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1202)","ts":1761537730261}
+{"tp":3,"el":"5d 1:54","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1202)","ts":1761537730262}
+{"tp":2,"el":"5d 1:54","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1202)","ts":1761537730262}
+{"tp":3,"el":"5d 1:54","ms":">>> ffw ended","dt":"(2025 1027 1202)","ts":1761537730263}
+{"tp":3,"el":"5d 1:54","ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","dt":"(2025 1027 1202)","ts":1761537758859}
+{"tp":3,"el":"5d 1:54","ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","dt":"(2025 1027 1202)","ts":1761537758860}
+{"tp":2,"el":"5d 1:54","ms":"month=2 life_cycle=CONFIRMED","dt":"(2025 1027 1202)","ts":1761537758861}
+{"tp":3,"el":"5d 1:54","ms":">>> ffw ended","dt":"(2025 1027 1202)","ts":1761537758862}
+{"tp":8,"el":"5d 1:56","ms":"player_renewed options_list=use_short_text","dt":"(2025 1027 1203)","ts":1761537836860}
+{"tp":2,"el":"5d 1:56","ms":"month=0 life_cycle=NEW","dt":"(2025 1027 1203)","ts":1761537836861}
+{"tp":7,"el":"5d 1:56","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1204)","ts":1761537842002}
+{"tp":3,"el":"5d 1:56","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1204)","ts":1761537842003}
+{"tp":3,"el":"5d 1:56","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1204)","ts":1761537842003}
+{"tp":2,"el":"5d 1:56","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1204)","ts":1761537842004}
+{"tp":3,"el":"5d 1:56","ms":">>> ffw ended","dt":"(2025 1027 1204)","ts":1761537842005}
+{"tp":7,"el":"5d 2:9","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1216)","ts":1761538613403}
+{"tp":3,"el":"5d 2:9","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1216)","ts":1761538613403}
+{"tp":3,"el":"5d 2:9","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1216)","ts":1761538613404}
+{"tp":2,"el":"5d 2:9","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1216)","ts":1761538613404}
+{"tp":3,"el":"5d 2:9","ms":">>> ffw ended","dt":"(2025 1027 1216)","ts":1761538613405}
+{"tp":7,"el":"5d 2:15","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1222)","ts":1761538963324}
+{"tp":3,"el":"5d 2:15","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1222)","ts":1761538963324}
+{"tp":3,"el":"5d 2:15","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1222)","ts":1761538963325}
+{"tp":2,"el":"5d 2:15","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1222)","ts":1761538963325}
+{"tp":3,"el":"5d 2:15","ms":">>> ffw ended","dt":"(2025 1027 1222)","ts":1761538963326}
+{"tp":8,"el":"5d 2:15","ms":"player_renewed options_list=use_short_text","dt":"(2025 1027 1222)","ts":1761538971433}
+{"tp":2,"el":"5d 2:15","ms":"month=0 life_cycle=NEW","dt":"(2025 1027 1222)","ts":1761538971433}
+{"tp":7,"el":"5d 2:17","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1225)","ts":1761539115816}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1225)","ts":1761539115817}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1225)","ts":1761539115817}
+{"tp":2,"el":"5d 2:17","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539115818}
+{"tp":3,"el":"5d 2:17","ms":">>> ffw ended","dt":"(2025 1027 1225)","ts":1761539115819}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","dt":"(2025 1027 1225)","ts":1761539120494}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","dt":"(2025 1027 1225)","ts":1761539120495}
+{"tp":2,"el":"5d 2:17","ms":"month=2 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539120496}
+{"tp":3,"el":"5d 2:17","ms":">>> ffw ended","dt":"(2025 1027 1225)","ts":1761539120497}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: -, costs: 307 890 €","dt":"(2025 1027 1225)","ts":1761539123104}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 422 600 €, costs: 319 345 €","dt":"(2025 1027 1225)","ts":1761539123105}
+{"tp":2,"el":"5d 2:17","ms":"month=3 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539123107}
+{"tp":7,"el":"5d 2:17","ms":"   > error msg to list: *** Production (err321) (order 1068) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 24 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1225)","ts":1761539123124}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: -, costs: 381 197 €","dt":"(2025 1027 1225)","ts":1761539123124}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 403 600 €, costs: 392 065 €","dt":"(2025 1027 1225)","ts":1761539123125}
+{"tp":2,"el":"5d 2:17","ms":"month=4 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539123127}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: -, costs: 322 505 €","dt":"(2025 1027 1225)","ts":1761539123138}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 401 700 €, costs: 331 933 €","dt":"(2025 1027 1225)","ts":1761539123139}
+{"tp":2,"el":"5d 2:17","ms":"month=5 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539123141}
+{"tp":7,"el":"5d 2:17","ms":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1225)","ts":1761539123152}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: -, costs: 290 787 €","dt":"(2025 1027 1225)","ts":1761539123152}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 305 700 €, costs: 298 183 €","dt":"(2025 1027 1225)","ts":1761539123153}
+{"tp":2,"el":"5d 2:17","ms":"month=6 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539123155}
+{"tp":7,"el":"5d 2:17","ms":"   > error msg to list: *** Production (err321) (order 1125) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 16 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1225)","ts":1761539123166}
+{"tp":3,"el":"5d 2:17","ms":" * process pass1 month: profit: -, income: 340 000 €, costs: 283 976 €","dt":"(2025 1027 1225)","ts":1761539123167}
+{"tp":3,"el":"5d 2:17","ms":" * process pass2 month: profit: -, income: 516 200 €, costs: 291 142 €","dt":"(2025 1027 1225)","ts":1761539123168}
+{"tp":2,"el":"5d 2:17","ms":"month=7 life_cycle=CONFIRMED","dt":"(2025 1027 1225)","ts":1761539123170}
+{"tp":3,"el":"5d 2:17","ms":">>> ffw ended","dt":"(2025 1027 1225)","ts":1761539123172}
+{"tp":8,"el":"5d 2:19","ms":"player_renewed options_list=use_short_text","dt":"(2025 1027 1227)","ts":1761539246757}
+{"tp":2,"el":"5d 2:19","ms":"month=0 life_cycle=NEW","dt":"(2025 1027 1227)","ts":1761539246757}
+{"tp":7,"el":"5d 2:19","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1227)","ts":1761539248335}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1227)","ts":1761539248335}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1227)","ts":1761539248336}
+{"tp":2,"el":"5d 2:19","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539248336}
+{"tp":3,"el":"5d 2:19","ms":">>> ffw ended","dt":"(2025 1027 1227)","ts":1761539248337}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","dt":"(2025 1027 1227)","ts":1761539250942}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","dt":"(2025 1027 1227)","ts":1761539250943}
+{"tp":2,"el":"5d 2:19","ms":"month=2 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539250944}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: -, costs: 307 890 €","dt":"(2025 1027 1227)","ts":1761539250954}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 422 600 €, costs: 319 345 €","dt":"(2025 1027 1227)","ts":1761539250955}
+{"tp":2,"el":"5d 2:19","ms":"month=3 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539250956}
+{"tp":7,"el":"5d 2:19","ms":"   > error msg to list: *** Production (err321) (order 1068) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 24 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1227)","ts":1761539250966}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: -, costs: 381 197 €","dt":"(2025 1027 1227)","ts":1761539250966}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 403 600 €, costs: 392 065 €","dt":"(2025 1027 1227)","ts":1761539250967}
+{"tp":2,"el":"5d 2:19","ms":"month=4 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539250969}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: -, costs: 322 505 €","dt":"(2025 1027 1227)","ts":1761539250981}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 401 700 €, costs: 331 933 €","dt":"(2025 1027 1227)","ts":1761539250982}
+{"tp":2,"el":"5d 2:19","ms":"month=5 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539250984}
+{"tp":7,"el":"5d 2:19","ms":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1227)","ts":1761539250993}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: -, costs: 290 787 €","dt":"(2025 1027 1227)","ts":1761539250994}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 305 700 €, costs: 298 183 €","dt":"(2025 1027 1227)","ts":1761539250995}
+{"tp":2,"el":"5d 2:19","ms":"month=6 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539250997}
+{"tp":7,"el":"5d 2:19","ms":"   > error msg to list: *** Production (err321) (order 1125) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 16 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1227)","ts":1761539251007}
+{"tp":3,"el":"5d 2:19","ms":" * process pass1 month: profit: -, income: 340 000 €, costs: 283 976 €","dt":"(2025 1027 1227)","ts":1761539251007}
+{"tp":3,"el":"5d 2:19","ms":" * process pass2 month: profit: -, income: 516 200 €, costs: 291 142 €","dt":"(2025 1027 1227)","ts":1761539251008}
+{"tp":2,"el":"5d 2:19","ms":"month=7 life_cycle=CONFIRMED","dt":"(2025 1027 1227)","ts":1761539251011}
+{"tp":3,"el":"5d 2:19","ms":">>> ffw ended","dt":"(2025 1027 1227)","ts":1761539251012}
+{"tp":7,"el":"5d 2:22","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1230)","ts":1761539420676}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1230)","ts":1761539420676}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1230)","ts":1761539420676}
+{"tp":2,"el":"5d 2:22","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539420677}
+{"tp":3,"el":"5d 2:22","ms":">>> ffw ended","dt":"(2025 1027 1230)","ts":1761539420678}
+{"tp":8,"el":"5d 2:22","ms":"player_renewed options_list=use_short_text","dt":"(2025 1027 1230)","ts":1761539423176}
+{"tp":2,"el":"5d 2:22","ms":"month=0 life_cycle=NEW","dt":"(2025 1027 1230)","ts":1761539423176}
+{"tp":7,"el":"5d 2:22","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 1230)","ts":1761539424744}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 1230)","ts":1761539424744}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 1230)","ts":1761539424745}
+{"tp":2,"el":"5d 2:22","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539424746}
+{"tp":3,"el":"5d 2:22","ms":">>> ffw ended","dt":"(2025 1027 1230)","ts":1761539424747}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","dt":"(2025 1027 1230)","ts":1761539429086}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","dt":"(2025 1027 1230)","ts":1761539429087}
+{"tp":2,"el":"5d 2:22","ms":"month=2 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539429088}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 307 890 €","dt":"(2025 1027 1230)","ts":1761539429100}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 422 600 €, costs: 319 345 €","dt":"(2025 1027 1230)","ts":1761539429101}
+{"tp":2,"el":"5d 2:22","ms":"month=3 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539429102}
+{"tp":7,"el":"5d 2:22","ms":"   > error msg to list: *** Production (err321) (order 1068) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 24 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1230)","ts":1761539429113}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 381 197 €","dt":"(2025 1027 1230)","ts":1761539429113}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 403 600 €, costs: 392 065 €","dt":"(2025 1027 1230)","ts":1761539429114}
+{"tp":2,"el":"5d 2:22","ms":"month=4 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539429115}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 322 505 €","dt":"(2025 1027 1230)","ts":1761539429126}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 401 700 €, costs: 331 933 €","dt":"(2025 1027 1230)","ts":1761539429127}
+{"tp":2,"el":"5d 2:22","ms":"month=5 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539429129}
+{"tp":7,"el":"5d 2:22","ms":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1230)","ts":1761539429138}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: -, costs: 290 787 €","dt":"(2025 1027 1230)","ts":1761539429139}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 305 700 €, costs: 298 183 €","dt":"(2025 1027 1230)","ts":1761539429140}
+{"tp":2,"el":"5d 2:22","ms":"month=6 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539429142}
+{"tp":7,"el":"5d 2:22","ms":"   > error msg to list: *** Production (err321) (order 1125) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 16 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 1230)","ts":1761539429152}
+{"tp":3,"el":"5d 2:22","ms":" * process pass1 month: profit: -, income: 340 000 €, costs: 283 976 €","dt":"(2025 1027 1230)","ts":1761539429152}
+{"tp":3,"el":"5d 2:22","ms":" * process pass2 month: profit: -, income: 516 200 €, costs: 291 142 €","dt":"(2025 1027 1230)","ts":1761539429153}
+{"tp":2,"el":"5d 2:22","ms":"month=7 life_cycle=CONFIRMED","dt":"(2025 1027 1230)","ts":1761539429156}
+{"tp":3,"el":"5d 2:22","ms":">>> ffw ended","dt":"(2025 1027 1230)","ts":1761539429157}
+{"tp":7,"el":"5d 11:29","ms":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1027 2137)","ts":1761572236573}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: -, costs: 344 418 €","dt":"(2025 1027 2137)","ts":1761572236573}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 412 400 €, costs: 355 481 €","dt":"(2025 1027 2137)","ts":1761572236574}
+{"tp":2,"el":"5d 11:29","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236574}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: -, costs: 311 645 €","dt":"(2025 1027 2137)","ts":1761572236586}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 400 000 €, costs: 324 057 €","dt":"(2025 1027 2137)","ts":1761572236587}
+{"tp":2,"el":"5d 11:29","ms":"month=2 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236589}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: -, costs: 307 890 €","dt":"(2025 1027 2137)","ts":1761572236601}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 422 600 €, costs: 319 345 €","dt":"(2025 1027 2137)","ts":1761572236602}
+{"tp":2,"el":"5d 11:29","ms":"month=3 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236603}
+{"tp":7,"el":"5d 11:29","ms":"   > error msg to list: *** Production (err321) (order 1068) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 24 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 2137)","ts":1761572236613}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: -, costs: 381 197 €","dt":"(2025 1027 2137)","ts":1761572236614}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 403 600 €, costs: 392 065 €","dt":"(2025 1027 2137)","ts":1761572236615}
+{"tp":2,"el":"5d 11:29","ms":"month=4 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236616}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: -, costs: 322 505 €","dt":"(2025 1027 2137)","ts":1761572236627}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 401 700 €, costs: 331 933 €","dt":"(2025 1027 2137)","ts":1761572236628}
+{"tp":2,"el":"5d 11:29","ms":"month=5 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236630}
+{"tp":7,"el":"5d 11:29","ms":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 2137)","ts":1761572236640}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: -, costs: 290 787 €","dt":"(2025 1027 2137)","ts":1761572236640}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 305 700 €, costs: 298 183 €","dt":"(2025 1027 2137)","ts":1761572236643}
+{"tp":2,"el":"5d 11:29","ms":"month=6 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236645}
+{"tp":7,"el":"5d 11:29","ms":"   > error msg to list: *** Production (err321) (order 1125) at (vesoul) process (cordial_production) not enough stock for production: item concentrate_bin need 16 (qty consumed) remain -4 (qty avail)","dt":"(2025 1027 2137)","ts":1761572236665}
+{"tp":7,"el":"5d 11:29","ms":"   > error msg to list: *** Factory Sales (err340) (order 1135) at (auckland) item (puree_bin) cannot sell more than available in factory: qty before: 180: qty sold: 140: qty after: 40","dt":"(2025 1027 2137)","ts":1761572236665}
+{"tp":7,"el":"5d 11:29","ms":"   > error msg to list: *** Factory Sales (err340) (order 1136) at (auckland) item (concentrate_bin) cannot sell more than available in factory: qty before: 30: qty sold: 20: qty after: 10","dt":"(2025 1027 2137)","ts":1761572236665}
+{"tp":3,"el":"5d 11:29","ms":" * process pass1 month: profit: -, income: 340 000 €, costs: 283 976 €","dt":"(2025 1027 2137)","ts":1761572236665}
+{"tp":3,"el":"5d 11:29","ms":" * process pass2 month: profit: -, income: 516 200 €, costs: 291 142 €","dt":"(2025 1027 2137)","ts":1761572236666}
+{"tp":2,"el":"5d 11:29","ms":"month=7 life_cycle=CONFIRMED","dt":"(2025 1027 2137)","ts":1761572236668}
+{"tp":3,"el":"5d 11:29","ms":">>> ffw ended","dt":"(2025 1027 2137)","ts":1761572236670}

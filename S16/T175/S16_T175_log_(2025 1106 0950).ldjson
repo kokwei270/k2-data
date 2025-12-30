@@ -1,0 +1,6 @@
+{"el":"0d 0:0 22","tp":1,"tr":"login","ms":"player login, count_login=0","dt":"(2025 1106 0950)","ts":1762393827276}
+{"el":"0d 0:0 22","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1106 0950)","ts":1762393827278}
+{"el":"0d 0:0 22","tp":10,"tr":"system","ms":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1106 0950)","ts":1762393827293}
+{"el":"0d 0:0 22","tp":8,"tr":"config","ms":"options_list=error_pass_through,use_short_text","dt":"(2025 1106 0950)","ts":1762393827293}
+{"el":"0d 0:0 23","tp":10,"tr":"system","ms":"http_player /update_month/on_init","dt":"(2025 1106 0950)","ts":1762393828305}
+{"el":"0d 0:0 23","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1106 0950)","ts":1762393828305}

@@ -1,0 +1,27 @@
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T161/S15_T161_state_0.json","dt":"(2025 1105 1906)","ts":1762340778875}
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1105 1906)","ts":1762340778877}
+{"el":"5d 21:26 7","tp":7,"tr":"error","ms":"   > error msg to list: * Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1105 1906)","ts":1762340778889}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: -, costs: 389 670 €","dt":"(2025 1105 1906)","ts":1762340778890}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 393 000 €, costs: 400 789 €","dt":"(2025 1105 1906)","ts":1762340778891}
+{"el":"5d 21:26 7","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1105 1906)","ts":1762340778891}
+{"el":"5d 21:26 7","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1105 1906)","ts":1762340778892}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567146}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567153}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567156}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567160}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567164}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567167}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567169}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567173}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567176}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567179}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567182}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567185}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567188}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T161/S15_T161_state_0.json","dt":"(2025 1106 0831)","ts":1762389116391}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T161_decision_1\", file found:","dt":"(2025 1106 0831)","ts":1762389116392}
+{"el":"6d 10:51 45","tp":7,"tr":"error","ms":"   > error msg to list: * Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1106 0831)","ts":1762389116417}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: -, costs: 389 670 €","dt":"(2025 1106 0831)","ts":1762389116418}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 393 000 €, costs: 400 789 €","dt":"(2025 1106 0831)","ts":1762389116419}
+{"el":"6d 10:51 45","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1106 0831)","ts":1762389116420}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1106 0831)","ts":1762389116422}

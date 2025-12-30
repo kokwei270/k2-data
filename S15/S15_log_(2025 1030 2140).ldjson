@@ -1,0 +1,20 @@
+{"el":"21d 15:51 9","tp":2,"tr":"login_session","ms":"ok: role=facilitator","dt":"(2025 1121 1331)","ts":1763703080648}
+{"el":"21d 15:51 56","tp":2,"tr":"login_session","ms":"failed:","dt":"(2025 1121 1332)","ts":1763703127940}
+{"el":"21d 15:54 31","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1121 1334)","ts":1763703282789}
+{"el":"21d 22:15 24","tp":2,"tr":"login_session","ms":"failed: id=ss pin=()","dt":"(2025 1121 1955)","ts":1763726135140}
+{"el":"21d 22:15 27","tp":2,"tr":"login_session","ms":"failed: id=ss pin=()","dt":"(2025 1121 1955)","ts":1763726139006}
+{"el":"21d 22:22 10","tp":2,"tr":"login_session","ms":"success: id=kw1 role=facilitator","dt":"(2025 1121 2002)","ts":1763726541378}
+{"el":"31d 1:10 45","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2250)","ts":1764514256389}
+{"el":"31d 1:10 54","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2251)","ts":1764514265928}
+{"el":"31d 1:11 12","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2251)","ts":1764514283518}
+{"el":"31d 1:15 30","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2255)","ts":1764514541300}
+{"el":"31d 1:18 37","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2258)","ts":1764514728172}
+{"el":"31d 1:20 32","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2300)","ts":1764514844024}
+{"el":"31d 1:21 45","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1130 2301)","ts":1764514916212}
+{"el":"31d 13:35 15","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1201 1115)","ts":1764558926851}
+{"el":"31d 13:38 45","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1201 1118)","ts":1764559136472}
+{"el":"31d 13:39 46","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1201 1119)","ts":1764559197574}
+{"el":"31d 16:39 15","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1201 1419)","ts":1764569966110}
+{"el":"31d 16:39 23","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1201 1419)","ts":1764569974110}
+{"el":"31d 16:39 24","tp":2,"tr":"login_session","ms":"failed: id=() pin=()","dt":"(2025 1201 1419)","ts":1764569975678}
+{"elt":"31d 17:31 20","tyn":2,"tys":"login_session","msg":"success: id=kw1 role=facilitator","dt":"(2025 1201 1511)","ts":1764573091670}

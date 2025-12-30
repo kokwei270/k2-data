@@ -1,0 +1,19 @@
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T157/S15_T157_state_0.json","dt":"(2025 1105 1906)","ts":1762340778809}
+{"el":"5d 21:26 7","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1105 1906)","ts":1762340778811}
+{"el":"5d 21:26 7","tp":7,"tr":"error","ms":"   > error msg to list: ** decision file not on server, load new one","dt":"(2025 1105 1906)","ts":1762340778811}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567145}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567151}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567156}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567159}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567163}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567166}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567169}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567172}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567175}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567178}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567181}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567184}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567188}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T157/S15_T157_state_0.json","dt":"(2025 1106 0831)","ts":1762389116321}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T157_decision_1\", file found:","dt":"(2025 1106 0831)","ts":1762389116324}
+{"el":"6d 10:51 45","tp":7,"tr":"error","ms":"   > error msg to list: ** decision file not on server, load new one","dt":"(2025 1106 0831)","ts":1762389116324}

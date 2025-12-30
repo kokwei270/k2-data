@@ -1,0 +1,350 @@
+{"elt":"25d 9:6 34","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1227 0018)","ts":1766765896684}
+{"elt":"25d 9:6 34","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1227 0018)","ts":1766765896686}
+{"elt":"25d 9:6 34","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1227 0018)","ts":1766765896698}
+{"elt":"25d 9:6 34","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 317 939 €","dt":"(2025 1227 0018)","ts":1766765896698}
+{"elt":"25d 9:6 34","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 326 777 €","dt":"(2025 1227 0018)","ts":1766765896700}
+{"elt":"25d 9:6 34","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1227 0018)","ts":1766765896700}
+{"elt":"25d 9:6 34","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0018)","ts":1766765896701}
+{"elt":"25d 9:6 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1227 0018)","ts":1766765919091}
+{"elt":"25d 9:6 57","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1024) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 30 (qty consumed) remain -5 (qty avail)","dt":"(2025 1227 0018)","ts":1766765919102}
+{"elt":"25d 9:6 57","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 402 408 €","dt":"(2025 1227 0018)","ts":1766765919102}
+{"elt":"25d 9:6 57","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 407 958 €","dt":"(2025 1227 0018)","ts":1766765919103}
+{"elt":"25d 9:6 57","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1227 0018)","ts":1766765919104}
+{"elt":"25d 9:6 57","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0018)","ts":1766765919105}
+{"elt":"25d 9:7 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1227 0019)","ts":1766765968754}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 325 603 €","dt":"(2025 1227 0019)","ts":1766765968764}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 332 032 €","dt":"(2025 1227 0019)","ts":1766765968765}
+{"elt":"25d 9:7 46","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1227 0019)","ts":1766765968767}
+{"elt":"25d 9:7 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1227 0019)","ts":1766765968768}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 398 612 €","dt":"(2025 1227 0019)","ts":1766765968780}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 407 093 €","dt":"(2025 1227 0019)","ts":1766765968781}
+{"elt":"25d 9:7 46","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1227 0019)","ts":1766765968783}
+{"elt":"25d 9:7 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1227 0019)","ts":1766765968784}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 399 930 €","dt":"(2025 1227 0019)","ts":1766765968793}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 408 245 €","dt":"(2025 1227 0019)","ts":1766765968794}
+{"elt":"25d 9:7 46","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1227 0019)","ts":1766765968796}
+{"elt":"25d 9:7 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0019)","ts":1766765968798}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 365 397 €","dt":"(2025 1227 0019)","ts":1766765968808}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 372 584 €","dt":"(2025 1227 0019)","ts":1766765968810}
+{"elt":"25d 9:7 46","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1227 0019)","ts":1766765968815}
+{"elt":"25d 9:7 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1227 0019)","ts":1766765968818}
+{"elt":"25d 9:7 46","tyn":7,"tys":"error","msg":"   > error msg to list: *** Factory Sales (err340) (order 1135) at (auckland) item (puree_bin) cannot sell more than available in factory: qty before: 164: qty sold: 120: qty after: 44","dt":"(2025 1227 0019)","ts":1766765968833}
+{"elt":"25d 9:7 46","tyn":7,"tys":"error","msg":"   > error msg to list: *** Factory Sales (err340) (order 1136) at (auckland) item (concentrate_bin) cannot sell more than available in factory: qty before: 6: qty sold: 6: qty after: 0","dt":"(2025 1227 0019)","ts":1766765968833}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 166 762 €","dt":"(2025 1227 0019)","ts":1766765968833}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 173 962 €","dt":"(2025 1227 0019)","ts":1766765968834}
+{"elt":"25d 9:7 46","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1227 0019)","ts":1766765968838}
+{"elt":"25d 9:7 46","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0019)","ts":1766765968840}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1227 0042)","ts":1766767373959}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1227 0042)","ts":1766767373961}
+{"elt":"25d 9:31 11","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 35 (qty consumed) remain -25 (qty avail)","dt":"(2025 1227 0042)","ts":1766767373974}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 317 939 €","dt":"(2025 1227 0042)","ts":1766767373974}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 326 777 €","dt":"(2025 1227 0042)","ts":1766767373977}
+{"elt":"25d 9:31 11","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767373977}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1227 0042)","ts":1766767373980}
+{"elt":"25d 9:31 11","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1024) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 30 (qty consumed) remain -5 (qty avail)","dt":"(2025 1227 0042)","ts":1766767373990}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 402 408 €","dt":"(2025 1227 0042)","ts":1766767373990}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 407 958 €","dt":"(2025 1227 0042)","ts":1766767373991}
+{"elt":"25d 9:31 11","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767373992}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1227 0042)","ts":1766767373993}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 325 603 €","dt":"(2025 1227 0042)","ts":1766767374002}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 332 032 €","dt":"(2025 1227 0042)","ts":1766767374003}
+{"elt":"25d 9:31 11","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767374005}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1227 0042)","ts":1766767374006}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 398 612 €","dt":"(2025 1227 0042)","ts":1766767374017}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 407 093 €","dt":"(2025 1227 0042)","ts":1766767374018}
+{"elt":"25d 9:31 11","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767374019}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1227 0042)","ts":1766767374021}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 399 930 €","dt":"(2025 1227 0042)","ts":1766767374031}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 408 245 €","dt":"(2025 1227 0042)","ts":1766767374032}
+{"elt":"25d 9:31 11","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767374034}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0042)","ts":1766767374035}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 365 397 €","dt":"(2025 1227 0042)","ts":1766767374047}
+{"elt":"25d 9:31 11","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 372 584 €","dt":"(2025 1227 0042)","ts":1766767374048}
+{"elt":"25d 9:31 11","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767374050}
+{"elt":"25d 9:31 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1227 0042)","ts":1766767374052}
+{"elt":"25d 9:31 12","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 166 762 €","dt":"(2025 1227 0042)","ts":1766767374062}
+{"elt":"25d 9:31 12","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 173 962 €","dt":"(2025 1227 0042)","ts":1766767374063}
+{"elt":"25d 9:31 12","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1227 0042)","ts":1766767374068}
+{"elt":"25d 9:31 12","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0042)","ts":1766767374070}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1227 0050)","ts":1766767805231}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1227 0050)","ts":1766767805232}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 319 699 €","dt":"(2025 1227 0050)","ts":1766767805248}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 328 537 €","dt":"(2025 1227 0050)","ts":1766767805249}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805250}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1227 0050)","ts":1766767805252}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 404 168 €","dt":"(2025 1227 0050)","ts":1766767805267}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 409 718 €","dt":"(2025 1227 0050)","ts":1766767805269}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805269}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1227 0050)","ts":1766767805271}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 327 363 €","dt":"(2025 1227 0050)","ts":1766767805284}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 333 792 €","dt":"(2025 1227 0050)","ts":1766767805285}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805286}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1227 0050)","ts":1766767805288}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 400 372 €","dt":"(2025 1227 0050)","ts":1766767805299}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 408 853 €","dt":"(2025 1227 0050)","ts":1766767805301}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805303}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1227 0050)","ts":1766767805306}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 401 690 €","dt":"(2025 1227 0050)","ts":1766767805320}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 410 005 €","dt":"(2025 1227 0050)","ts":1766767805321}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805324}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0050)","ts":1766767805326}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 367 157 €","dt":"(2025 1227 0050)","ts":1766767805337}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 374 344 €","dt":"(2025 1227 0050)","ts":1766767805339}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805341}
+{"elt":"25d 9:38 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1227 0050)","ts":1766767805344}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 168 522 €","dt":"(2025 1227 0050)","ts":1766767805356}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 175 722 €","dt":"(2025 1227 0050)","ts":1766767805357}
+{"elt":"25d 9:38 23","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1227 0050)","ts":1766767805360}
+{"elt":"25d 9:38 23","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0050)","ts":1766767805362}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1227 0115)","ts":1766769338255}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1227 0115)","ts":1766769338256}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 319 699 €","dt":"(2025 1227 0115)","ts":1766769338267}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 328 537 €","dt":"(2025 1227 0115)","ts":1766769338268}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338268}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1227 0115)","ts":1766769338271}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 404 168 €","dt":"(2025 1227 0115)","ts":1766769338285}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 409 718 €","dt":"(2025 1227 0115)","ts":1766769338287}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338288}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1227 0115)","ts":1766769338290}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 327 363 €","dt":"(2025 1227 0115)","ts":1766769338305}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 333 792 €","dt":"(2025 1227 0115)","ts":1766769338306}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338307}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1227 0115)","ts":1766769338309}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 400 372 €","dt":"(2025 1227 0115)","ts":1766769338319}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 408 853 €","dt":"(2025 1227 0115)","ts":1766769338320}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338322}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1227 0115)","ts":1766769338324}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 401 690 €","dt":"(2025 1227 0115)","ts":1766769338335}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 410 005 €","dt":"(2025 1227 0115)","ts":1766769338336}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338338}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0115)","ts":1766769338345}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 367 157 €","dt":"(2025 1227 0115)","ts":1766769338355}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 374 344 €","dt":"(2025 1227 0115)","ts":1766769338356}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338359}
+{"elt":"25d 10:3 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1227 0115)","ts":1766769338361}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 168 522 €","dt":"(2025 1227 0115)","ts":1766769338371}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 175 722 €","dt":"(2025 1227 0115)","ts":1766769338373}
+{"elt":"25d 10:3 56","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1227 0115)","ts":1766769338376}
+{"elt":"25d 10:3 56","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0115)","ts":1766769338378}
+{"elt":"25d 12:53 16","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1227 0404)","ts":1766779498386}
+{"elt":"25d 12:53 16","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1227 0404)","ts":1766779498387}
+{"elt":"25d 12:53 16","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 319 699 €","dt":"(2025 1227 0404)","ts":1766779498398}
+{"elt":"25d 12:53 16","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 328 537 €","dt":"(2025 1227 0404)","ts":1766779498399}
+{"elt":"25d 12:53 16","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1227 0404)","ts":1766779498399}
+{"elt":"25d 12:53 16","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0404)","ts":1766779498400}
+{"elt":"25d 12:53 29","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1227 0405)","ts":1766779511413}
+{"elt":"25d 12:53 29","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 404 168 €","dt":"(2025 1227 0405)","ts":1766779511424}
+{"elt":"25d 12:53 29","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 409 718 €","dt":"(2025 1227 0405)","ts":1766779511425}
+{"elt":"25d 12:53 29","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1227 0405)","ts":1766779511425}
+{"elt":"25d 12:53 29","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0405)","ts":1766779511426}
+{"elt":"25d 12:53 48","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1227 0405)","ts":1766779530554}
+{"elt":"25d 12:53 48","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 327 363 €","dt":"(2025 1227 0405)","ts":1766779530564}
+{"elt":"25d 12:53 48","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 333 792 €","dt":"(2025 1227 0405)","ts":1766779530565}
+{"elt":"25d 12:53 48","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1227 0405)","ts":1766779530567}
+{"elt":"25d 12:53 48","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0405)","ts":1766779530568}
+{"elt":"25d 12:54 2","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1227 0405)","ts":1766779544971}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 400 372 €","dt":"(2025 1227 0405)","ts":1766779544984}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 408 853 €","dt":"(2025 1227 0405)","ts":1766779544985}
+{"elt":"25d 12:54 2","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1227 0405)","ts":1766779544986}
+{"elt":"25d 12:54 2","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1227 0405)","ts":1766779544988}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 401 690 €","dt":"(2025 1227 0405)","ts":1766779544997}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 410 005 €","dt":"(2025 1227 0405)","ts":1766779544999}
+{"elt":"25d 12:54 2","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1227 0405)","ts":1766779545001}
+{"elt":"25d 12:54 2","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0405)","ts":1766779545002}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 367 157 €","dt":"(2025 1227 0405)","ts":1766779545012}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 374 344 €","dt":"(2025 1227 0405)","ts":1766779545013}
+{"elt":"25d 12:54 2","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1227 0405)","ts":1766779545016}
+{"elt":"25d 12:54 2","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1227 0405)","ts":1766779545019}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 168 522 €","dt":"(2025 1227 0405)","ts":1766779545031}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 175 722 €","dt":"(2025 1227 0405)","ts":1766779545032}
+{"elt":"25d 12:54 2","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1227 0405)","ts":1766779545036}
+{"elt":"25d 12:54 2","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0405)","ts":1766779545037}
+{"elt":"25d 12:55 47","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1227 0407)","ts":1766779649308}
+{"elt":"25d 12:55 47","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1227 0407)","ts":1766779649309}
+{"elt":"25d 12:55 47","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 319 699 €","dt":"(2025 1227 0407)","ts":1766779649319}
+{"elt":"25d 12:55 47","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 328 537 €","dt":"(2025 1227 0407)","ts":1766779649321}
+{"elt":"25d 12:55 47","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1227 0407)","ts":1766779649321}
+{"elt":"25d 12:55 47","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0407)","ts":1766779649322}
+{"elt":"25d 12:55 53","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1227 0407)","ts":1766779655716}
+{"elt":"25d 12:55 53","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 404 168 €","dt":"(2025 1227 0407)","ts":1766779655726}
+{"elt":"25d 12:55 53","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 409 718 €","dt":"(2025 1227 0407)","ts":1766779655727}
+{"elt":"25d 12:55 53","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1227 0407)","ts":1766779655727}
+{"elt":"25d 12:55 53","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0407)","ts":1766779655728}
+{"elt":"25d 12:56 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1227 0407)","ts":1766779670692}
+{"elt":"25d 12:56 8","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 327 363 €","dt":"(2025 1227 0407)","ts":1766779670702}
+{"elt":"25d 12:56 8","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 333 792 €","dt":"(2025 1227 0407)","ts":1766779670703}
+{"elt":"25d 12:56 8","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1227 0407)","ts":1766779670704}
+{"elt":"25d 12:56 8","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0407)","ts":1766779670706}
+{"elt":"25d 12:56 10","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1227 0407)","ts":1766779672468}
+{"elt":"25d 12:56 10","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 400 372 €","dt":"(2025 1227 0407)","ts":1766779672480}
+{"elt":"25d 12:56 10","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 408 853 €","dt":"(2025 1227 0407)","ts":1766779672481}
+{"elt":"25d 12:56 10","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1227 0407)","ts":1766779672483}
+{"elt":"25d 12:56 10","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0407)","ts":1766779672484}
+{"elt":"25d 12:56 25","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1227 0408)","ts":1766779688052}
+{"elt":"25d 12:56 26","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 401 690 €","dt":"(2025 1227 0408)","ts":1766779688061}
+{"elt":"25d 12:56 26","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 410 005 €","dt":"(2025 1227 0408)","ts":1766779688062}
+{"elt":"25d 12:56 26","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1227 0408)","ts":1766779688064}
+{"elt":"25d 12:56 26","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0408)","ts":1766779688065}
+{"elt":"25d 12:57 51","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0409)","ts":1766779773122}
+{"elt":"25d 12:57 51","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 367 157 €","dt":"(2025 1227 0409)","ts":1766779773147}
+{"elt":"25d 12:57 51","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 374 344 €","dt":"(2025 1227 0409)","ts":1766779773148}
+{"elt":"25d 12:57 51","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1227 0409)","ts":1766779773159}
+{"elt":"25d 12:57 51","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1227 0409)","ts":1766779773160}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150856}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150866}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150870}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150872}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150874}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150877}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150879}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150880}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150882}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150883}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150886}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150888}
+{"elt":"25d 13:4 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0415)","ts":1766780150889}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161274}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161276}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161277}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161279}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161282}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161284}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161286}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161287}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161289}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161291}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161294}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161295}
+{"elt":"25d 13:4 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780161297}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183123}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183126}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183127}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183130}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183131}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183132}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183134}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183136}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183137}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183138}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183139}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183140}
+{"elt":"25d 13:4 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780183142}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199295}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199297}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199300}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199304}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199306}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199308}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199311}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199313}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199315}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199316}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199318}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199320}
+{"elt":"25d 13:4 57","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0416)","ts":1766780199322}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948628}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948634}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948635}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948636}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948637}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948641}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948642}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948643}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948644}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948645}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948647}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948648}
+{"elt":"25d 13:34 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0445)","ts":1766781948649}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966075}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966080}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966082}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966085}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966087}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966089}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966093}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966095}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966097}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966099}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966101}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966104}
+{"elt":"25d 13:34 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1227 0446)","ts":1766781966107}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1229 0029)","ts":1766939353316}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1229 0029)","ts":1766939353317}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353325}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 319 699 €","dt":"(2025 1229 0029)","ts":1766939353326}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 328 537 €","dt":"(2025 1229 0029)","ts":1766939353327}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353327}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1229 0029)","ts":1766939353329}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353338}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 404 168 €","dt":"(2025 1229 0029)","ts":1766939353339}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 409 718 €","dt":"(2025 1229 0029)","ts":1766939353340}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353341}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1229 0029)","ts":1766939353343}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353352}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 327 363 €","dt":"(2025 1229 0029)","ts":1766939353353}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 333 792 €","dt":"(2025 1229 0029)","ts":1766939353354}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353355}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1229 0029)","ts":1766939353357}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353368}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 400 372 €","dt":"(2025 1229 0029)","ts":1766939353369}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 408 853 €","dt":"(2025 1229 0029)","ts":1766939353370}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353372}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1229 0029)","ts":1766939353375}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353384}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 401 690 €","dt":"(2025 1229 0029)","ts":1766939353385}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 410 005 €","dt":"(2025 1229 0029)","ts":1766939353387}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353389}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1229 0029)","ts":1766939353391}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353399}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 367 157 €","dt":"(2025 1229 0029)","ts":1766939353401}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 374 344 €","dt":"(2025 1229 0029)","ts":1766939353402}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353404}
+{"elt":"27d 9:17 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1229 0029)","ts":1766939353406}
+{"elt":"27d 9:17 31","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0029)","ts":1766939353415}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 168 522 €","dt":"(2025 1229 0029)","ts":1766939353416}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 175 722 €","dt":"(2025 1229 0029)","ts":1766939353417}
+{"elt":"27d 9:17 31","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1229 0029)","ts":1766939353420}
+{"elt":"27d 9:17 31","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0029)","ts":1766939353421}
+{"elt":"27d 9:24 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1229 0035)","ts":1766939748815}
+{"elt":"27d 9:24 6","tyn":8,"tys":"config","msg":"player_renewed options_list=show_all_errors,allow_edit,apply_event,error_pass_through,allow_rewffw","dt":"(2025 1229 0035)","ts":1766939748815}
+{"elt":"27d 9:24 6","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1229 0035)","ts":1766939748815}
+{"elt":"27d 9:24 8","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T166/S15_T166_state_0.json","dt":"(2025 1229 0035)","ts":1766939750522}
+{"elt":"27d 9:24 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_1\", file found:","dt":"(2025 1229 0035)","ts":1766939750524}
+{"elt":"27d 9:24 8","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0035)","ts":1766939750549}
+{"elt":"27d 9:24 8","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 319 699 €","dt":"(2025 1229 0035)","ts":1766939750550}
+{"elt":"27d 9:24 8","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 372 300 €, costs: 328 537 €","dt":"(2025 1229 0035)","ts":1766939750551}
+{"elt":"27d 9:24 8","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1229 0035)","ts":1766939750552}
+{"elt":"27d 9:24 8","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0035)","ts":1766939750554}
+{"elt":"27d 9:24 40","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_2\", file found:","dt":"(2025 1229 0036)","ts":1766939782863}
+{"elt":"27d 9:24 40","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0036)","ts":1766939782872}
+{"elt":"27d 9:24 40","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 404 168 €","dt":"(2025 1229 0036)","ts":1766939782873}
+{"elt":"27d 9:24 40","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 380 800 €, costs: 409 718 €","dt":"(2025 1229 0036)","ts":1766939782874}
+{"elt":"27d 9:24 40","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939782875}
+{"elt":"27d 9:24 40","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0036)","ts":1766939782876}
+{"elt":"27d 9:24 52","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_3\", file found:","dt":"(2025 1229 0036)","ts":1766939794566}
+{"elt":"27d 9:24 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0036)","ts":1766939794577}
+{"elt":"27d 9:24 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 327 363 €","dt":"(2025 1229 0036)","ts":1766939794578}
+{"elt":"27d 9:24 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 376 300 €, costs: 333 792 €","dt":"(2025 1229 0036)","ts":1766939794579}
+{"elt":"27d 9:24 52","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939794580}
+{"elt":"27d 9:24 52","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0036)","ts":1766939794581}
+{"elt":"27d 9:24 55","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_4\", file found:","dt":"(2025 1229 0036)","ts":1766939797355}
+{"elt":"27d 9:24 55","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0036)","ts":1766939797362}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 400 372 €","dt":"(2025 1229 0036)","ts":1766939797363}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 400 400 €, costs: 408 853 €","dt":"(2025 1229 0036)","ts":1766939797364}
+{"elt":"27d 9:24 55","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939797365}
+{"elt":"27d 9:24 55","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_5\", file found:","dt":"(2025 1229 0036)","ts":1766939797366}
+{"elt":"27d 9:24 55","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0036)","ts":1766939797375}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 401 690 €","dt":"(2025 1229 0036)","ts":1766939797376}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 399 600 €, costs: 410 005 €","dt":"(2025 1229 0036)","ts":1766939797377}
+{"elt":"27d 9:24 55","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939797379}
+{"elt":"27d 9:24 55","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_6\", file found:","dt":"(2025 1229 0036)","ts":1766939797380}
+{"elt":"27d 9:24 55","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0036)","ts":1766939797388}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 224 000 €, costs: 367 157 €","dt":"(2025 1229 0036)","ts":1766939797389}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 506 100 €, costs: 374 344 €","dt":"(2025 1229 0036)","ts":1766939797390}
+{"elt":"27d 9:24 55","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939797392}
+{"elt":"27d 9:24 55","tyn":8,"tys":"config","msg":"decision file, localfile: \"(no_localfile)\", serverfile: S15_T166_decision_7\", file found:","dt":"(2025 1229 0036)","ts":1766939797394}
+{"elt":"27d 9:24 55","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1229 0036)","ts":1766939797401}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: 258 000 €, costs: 168 522 €","dt":"(2025 1229 0036)","ts":1766939797402}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 532 800 €, costs: 175 722 €","dt":"(2025 1229 0036)","ts":1766939797403}
+{"elt":"27d 9:24 55","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939797406}
+{"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0036)","ts":1766939797407}

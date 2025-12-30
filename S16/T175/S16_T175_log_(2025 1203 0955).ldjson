@@ -1,0 +1,10 @@
+{"elt":"0d 0:0 12","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1203 0956)","ts":1764726964477}
+{"elt":"0d 0:0 12","tyn":8,"tys":"config","msg":"options_list=error_pass_through,use_short_text","dt":"(2025 1203 0956)","ts":1764726964478}
+{"elt":"0d 0:0 12","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1203 0956)","ts":1764726964493}
+{"elt":"0d 0:0 12","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1203 0956)","ts":1764726964493}
+{"elt":"0d 0:0 14","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1203 0956)","ts":1764726966460}
+{"elt":"0d 0:0 14","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S16/T175/S16_T175_state_0.json","dt":"(2025 1203 0956)","ts":1764726966465}
+{"elt":"0d 0:0 14","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1203 0956)","ts":1764726966472}
+{"elt":"0d 0:0 14","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision 1.xlsx\", serverfile: S16_T175_decision_1\", file found:","dt":"(2025 1203 0956)","ts":1764726966481}
+{"elt":"0d 0:0 14","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1203 0956)","ts":1764726966497}
+{"elt":"0d 0:0 14","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1203 0956)","ts":1764726966497}

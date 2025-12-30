@@ -1,0 +1,27 @@
+{"el":"5d 21:26 8","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T172/S15_T172_state_0.json","dt":"(2025 1105 1906)","ts":1762340779097}
+{"el":"5d 21:26 8","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1105 1906)","ts":1762340779098}
+{"el":"5d 21:26 8","tp":7,"tr":"error","ms":"   > error msg to list: * Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 20 (qty consumed) remain -10 (qty avail)","dt":"(2025 1105 1906)","ts":1762340779110}
+{"el":"5d 21:26 8","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: 11 000 €, costs: 215 239 €","dt":"(2025 1105 1906)","ts":1762340779111}
+{"el":"5d 21:26 8","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 431 600 €, costs: 226 089 €","dt":"(2025 1105 1906)","ts":1762340779111}
+{"el":"5d 21:26 8","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1105 1906)","ts":1762340779112}
+{"el":"5d 21:26 8","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1105 1906)","ts":1762340779113}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567150}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567155}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567158}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567162}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567165}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567168}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567171}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567175}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567178}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567181}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567184}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567187}
+{"el":"6d 10:9 16","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0749)","ts":1762386567190}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"state file, loaded: ../k2-data/S15/T172/S15_T172_state_0.json","dt":"(2025 1106 0831)","ts":1762389116619}
+{"el":"6d 10:51 45","tp":8,"tr":"config","ms":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T172_decision_1\", file found:","dt":"(2025 1106 0831)","ts":1762389116620}
+{"el":"6d 10:51 45","tp":7,"tr":"error","ms":"   > error msg to list: * Production (err321) (order 1005) at (arnhem) process (nectar_production) not enough stock for production: item puree_bin need 20 (qty consumed) remain -10 (qty avail)","dt":"(2025 1106 0831)","ts":1762389116632}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass1 month: profit: -, income: 11 000 €, costs: 215 239 €","dt":"(2025 1106 0831)","ts":1762389116632}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":" * process pass2 month: profit: -, income: 431 600 €, costs: 226 089 €","dt":"(2025 1106 0831)","ts":1762389116633}
+{"el":"6d 10:51 45","tp":2,"tr":"lifecycle","ms":"month=1 life_cycle=CONFIRMED","dt":"(2025 1106 0831)","ts":1762389116633}
+{"el":"6d 10:51 45","tp":3,"tr":"command","ms":">>> ffw ended","dt":"(2025 1106 0831)","ts":1762389116634}
