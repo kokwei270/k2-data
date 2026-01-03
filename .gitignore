@@ -2,6 +2,7 @@
 *.ldjson
 .~*
 *replaced*
+*error*
 .directory
 
 # Ignore upload and download directories (anywhere in the repo)
