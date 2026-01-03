@@ -1,8 +1,0 @@
-{"el":"0d 0:0 7","tp":1,"tr":"login","ms":"player logged out","dt":"(2025 1106 0938)","ts":1762393108179}
-{"el":"0d 0:1 6","tp":1,"tr":"login","ms":"player login, count_login=0","dt":"(2025 1106 0939)","ts":1762393166447}
-{"el":"0d 0:1 6","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1106 0939)","ts":1762393166449}
-{"el":"0d 0:1 6","tp":10,"tr":"system","ms":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1106 0939)","ts":1762393166466}
-{"el":"0d 0:1 6","tp":8,"tr":"config","ms":"options_list=error_pass_through,use_short_text","dt":"(2025 1106 0939)","ts":1762393166466}
-{"el":"0d 0:1 7","tp":10,"tr":"system","ms":"http_player /update_month/on_init","dt":"(2025 1106 0939)","ts":1762393167477}
-{"el":"0d 0:1 7","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1106 0939)","ts":1762393167477}
-{"el":"0d 0:1 13","tp":1,"tr":"login","ms":"player logged out","dt":"(2025 1106 0939)","ts":1762393173970}

@@ -1,7 +1,0 @@
-{"el":"7d 1:5 40","tp":10,"tr":"system","ms":"player_sync_timestamp source={\"command_param\":\"load_decision\"} oldts=1761707530342 newts=1761707589937","dt":"(2025 1029 1113)","ts":1761707602664}
-{"el":"7d 1:5 40","tp":10,"tr":"system","ms":"player_refresh=auto, sync_from_command_button","dt":"(2025 1029 1113)","ts":1761707602673}
-{"el":"7d 1:5 40","tp":8,"tr":"config","ms":"http_refresh options_list=error_pass_through,use_short_text,showDetails,apply_event,testmode_enabled","dt":"(2025 1029 1113)","ts":1761707602674}
-{"el":"7d 1:5 40","tp":10,"tr":"system","ms":"http_player /update_month/update_from_broadcast","dt":"(2025 1029 1113)","ts":1761707602684}
-{"el":"7d 1:5 40","tp":2,"tr":"lifecycle","ms":"month=0 life_cycle=NEW","dt":"(2025 1029 1113)","ts":1761707602685}
-{"el":"8d 7:48 53","tp":6,"tr":"admin","ms":"http_admin, /refresh_auto","dt":"(2025 1030 1756)","ts":1761818195101}
-{"el":"8d 7:48 53","tp":8,"tr":"config","ms":"admin_refresh options_list=showDetails,show_all_errors,allow_edit,use_short_text","dt":"(2025 1030 1756)","ts":1761818195103}
