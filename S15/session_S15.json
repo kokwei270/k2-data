@@ -122,7 +122,7 @@
   ],
   "events_list": [
     {
-      "month": 1,
+      "month": 8,
       "event": "Transport_Cannot_Use_Lorry",
       "params": {
         "lorry": "lorry 1"
@@ -130,7 +130,7 @@
       "explain": "lorry had a bad accident and need extensive repairs"
     },
     {
-      "month": 2,
+      "month": 8,
       "event": "Transport_Cannot_Reach_Location",
       "params": {
         "warehouse": "kemijarvi"
@@ -138,17 +138,17 @@
       "explain": "freak snow storm blocked all road accesses to the town"
     },
     {
-      "month": 3,
+      "month": 8,
       "event": "Shipping_Cannot_Leave_Port",
       "explain": "freak hurricane shut down the port of Auckland"
     },
     {
-      "month": 4,
+      "month": 8,
       "event": "Shipping_Cannot_Arrive_Port",
       "explain": "freak hurricane shut down the port of Rotterdam"
     },
     {
-      "month": 5,
+      "month": 8,
       "event": "Ship_Cargo_Lost",
       "params": {
         "factory": "vesoul",
@@ -157,7 +157,7 @@
       "explain": "an accident happened en route, your cargo was lost at sea"
     },
     {
-      "month": 6,
+      "month": 8,
       "event": "Production_Cannot_Run_Process",
       "params": {
         "factory": "vesoul",
@@ -166,7 +166,7 @@
       "explain": "an accident happened at the production line"
     },
     {
-      "month": 7,
+      "month": 8,
       "event": "Purchase_No_Stock",
       "params": {
         "factory": "vesoul",
