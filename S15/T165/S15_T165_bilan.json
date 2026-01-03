@@ -1,5 +1,16 @@
 [
   {
+    "readme": {
+      "month": 0,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 0,
       "month_str": "Aug 2024"
@@ -36,8 +47,8 @@
         "pack_purchase": 0,
         "puree_purchase": 0,
         "concentrate_purchase": 0,
-        "puree_shipping": 0,
-        "concentrate_shipping": 0
+        "puree_shipping": 50,
+        "concentrate_shipping": 10
       },
       "vesoul": {
         "month": 0,
@@ -48,7 +59,7 @@
         "bottle_purchase": 0,
         "sugar_purchase": 0,
         "concentrate_purchase": 0,
-        "concentrate_shipping": 0
+        "concentrate_shipping": 40
       },
       "transport": [
         {
@@ -422,6 +433,17 @@
     }
   },
   {
+    "readme": {
+      "month": 1,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 1,
       "month_str": "Sep 2024"
@@ -1172,6 +1194,17 @@
     }
   },
   {
+    "readme": {
+      "month": 2,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 2,
       "month_str": "Oct 2024"
@@ -2203,6 +2236,17 @@
     }
   },
   {
+    "readme": {
+      "month": 3,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 3,
       "month_str": "Nov 2024"
@@ -3591,6 +3635,17 @@
     }
   },
   {
+    "readme": {
+      "month": 4,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 4,
       "month_str": "Dec 2024"
@@ -5326,6 +5381,17 @@
     }
   },
   {
+    "readme": {
+      "month": 5,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 5,
       "month_str": "Jan 2025"
@@ -7387,6 +7453,17 @@
     }
   },
   {
+    "readme": {
+      "month": 6,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 6,
       "month_str": "Feb 2025"
@@ -9724,6 +9801,17 @@
     }
   },
   {
+    "readme": {
+      "month": 7,
+      "player": {
+        "player_id": 165,
+        "player_ref": "Team 11",
+        "player_prefix": "T165",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
     "month": {
       "month": 7,
       "month_str": "Mar 2025"

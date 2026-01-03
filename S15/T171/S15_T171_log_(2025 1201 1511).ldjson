@@ -346,3 +346,8 @@
 {"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 290 400 €, costs: 186 052 €","dt":"(2025 1229 0036)","ts":1766939797669}
 {"elt":"27d 9:24 55","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939797672}
 {"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0036)","ts":1766939797673}
+{"elt":"29d 16:5 37","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 0717)","ts":1767136639650}
+{"elt":"29d 16:5 37","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,allow_rewffw,step_month","dt":"(2025 1231 0717)","ts":1767136639656}
+{"elt":"29d 16:5 43","tyn":6,"tys":"admin","msg":"http_admin, /send_message","dt":"(2025 1231 0717)","ts":1767136645338}
+{"elt":"29d 16:15 15","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 0726)","ts":1767137217856}
+{"elt":"29d 16:15 15","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,allow_rewffw,step_month","dt":"(2025 1231 0726)","ts":1767137217857}

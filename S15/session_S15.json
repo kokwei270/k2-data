@@ -8,12 +8,12 @@
   "start_month": "Sep 2024",
   "remarks": "next one is for formal demo",
   "setup_files": {
-      "state_file": "S15_initial_state_thursday_2024",
-      "transport_file": "S15_transport_kemijarvi",
-      "demand_file": "S15_demand",
-      "distances_file": "S15_distances",
-      "factory_file": "S14_factory",
-      "members_file": "members_s15"
+    "state_file": "S15_initial_state_thursday_2024",
+    "transport_file": "S15_transport_kemijarvi",
+    "demand_file": "S15_demand",
+    "distances_file": "S15_distances",
+    "factory_file": "S14_factory",
+    "members_file": "members_s15"
   },
   "warehouse_list": [
     "arnhem factory",
@@ -123,7 +123,7 @@
   ],
   "events_list": [
     {
-      "month": 8,
+      "month": 1,
       "event": "Transport_Cannot_Use_Lorry",
       "params": {
         "lorry": "lorry 1"
@@ -131,46 +131,46 @@
       "explain": "lorry had a bad accident and need extensive repairs"
     },
     {
-      "month": 8,
+      "month": 2,
       "event": "Transport_Cannot_Reach_Location",
       "params": {
-        "location": "kemijarvi"
+        "warehouse": "kemijarvi"
       },
       "explain": "freak snow storm blocked all road accesses to the town"
     },
     {
-      "month": 8,
+      "month": 3,
       "event": "Shipping_Cannot_Leave_Port",
       "explain": "freak hurricane shut down the port of Auckland"
     },
     {
-      "month": 8,
+      "month": 4,
       "event": "Shipping_Cannot_Arrive_Port",
       "explain": "freak hurricane shut down the port of Rotterdam"
     },
     {
-      "month": 8,
+      "month": 5,
       "event": "Ship_Cargo_Lost",
       "params": {
-        "location": "vesoul",
+        "factory": "vesoul",
         "item": "concentrate_bin"
       },
       "explain": "an accident happened en route, your cargo was lost at sea"
     },
     {
-      "month": 8,
+      "month": 6,
       "event": "Production_Cannot_Run_Process",
       "params": {
-        "location": "vesoul",
+        "factory": "vesoul",
         "process": "cordial_packaging"
       },
       "explain": "an accident happened at the production line"
     },
     {
-      "month": 8,
+      "month": 7,
       "event": "Purchase_No_Stock",
       "params": {
-        "location": "vesoul",
+        "factory": "vesoul",
         "item": "concentrate_bin"
       },
       "explain": "supplier had a logistic breakdown"
@@ -179,7 +179,7 @@
       "month": 8,
       "event": "Staff_Cannot_Layoff",
       "params": {
-        "location": "vesoul"
+        "factory": "vesoul"
       },
       "explain": "union raised objection"
     },
@@ -187,7 +187,7 @@
       "month": 8,
       "event": "Warehouse_Stock_Destroyed",
       "params": {
-        "location": "paris"
+        "warehouse": "paris"
       },
       "explain": "warehouse caught fire during riot in town"
     },
@@ -195,7 +195,7 @@
       "month": 8,
       "event": "Warehouse_No_Sales",
       "params": {
-        "location": "madrid"
+        "warehouse": "madrid"
       },
       "explain": "street protest turned violent, customers cannot reach the warehouse"
     },
@@ -203,7 +203,7 @@
       "month": 8,
       "event": "FactoryStock_Destroyed",
       "params": {
-        "location": "arnhem",
+        "factory": "arnhem",
         "item": "concentrate_bin"
       },
       "explain": "the sky is falling"
@@ -212,7 +212,7 @@
       "month": 8,
       "event": "FactorySales_No_Sales",
       "params": {
-        "location": "auckland"
+        "factory": "auckland"
       },
       "explain": "no customer come to factory sales :("
     },
@@ -223,6 +223,6 @@
     }
   ],
   "standby_list": [],
-  "session_ts": 1764573102054,
-  "session_datetime": "(2025 1201 1511)"
+  "session_ts": 1767185652105,
+  "session_datetime": "(2025 1231 2054)"
 }

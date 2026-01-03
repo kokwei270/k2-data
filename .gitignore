@@ -1,0 +1,10 @@
+# Ignore all .ldjson files
+*.ldjson
+.~*
+*replaced*
+.directory
+
+# Ignore upload and download directories (anywhere in the repo)
+/uploads
+/download
+

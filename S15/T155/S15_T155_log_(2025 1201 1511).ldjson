@@ -5991,3 +5991,818 @@
 {"elt":"29d 5:53 25","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1230 2105)","ts":1767099907805}
 {"elt":"29d 5:53 25","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1230 2105)","ts":1767099907814}
 {"elt":"29d 5:53 25","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=END","dt":"(2025 1230 2105)","ts":1767099907814}
+{"elt":"29d 9:43 24","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0055)","ts":1767113706070}
+{"elt":"29d 9:43 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 7.xlsx\", serverfile: S15_T155_decision_7\", file found:","dt":"(2025 1231 0055)","ts":1767113706071}
+{"elt":"29d 9:43 24","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0055)","ts":1767113706071}
+{"elt":"29d 9:43 24","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0055)","ts":1767113706081}
+{"elt":"29d 9:43 24","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=END","dt":"(2025 1231 0055)","ts":1767113706082}
+{"elt":"29d 9:43 25","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0055)","ts":1767113707077}
+{"elt":"29d 9:43 25","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 7.xlsx\", serverfile: S15_T155_decision_7\", file found:","dt":"(2025 1231 0055)","ts":1767113707078}
+{"elt":"29d 9:43 25","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0055)","ts":1767113707078}
+{"elt":"29d 9:43 25","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0055)","ts":1767113707084}
+{"elt":"29d 9:43 25","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=END","dt":"(2025 1231 0055)","ts":1767113707084}
+{"elt":"29d 9:43 27","tyn":3,"tys":"command","msg":"http_command=rewind","dt":"(2025 1231 0055)","ts":1767113709982}
+{"elt":"29d 9:43 27","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 7.xlsx\", serverfile: S15_T155_decision_7\", file found:","dt":"(2025 1231 0055)","ts":1767113709984}
+{"elt":"29d 9:43 27","tyn":8,"tys":"config","msg":"player_renewed options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0055)","ts":1767113709984}
+{"elt":"29d 9:43 27","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0055)","ts":1767113709985}
+{"elt":"29d 9:43 27","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 0055)","ts":1767113710000}
+{"elt":"29d 9:43 27","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0055)","ts":1767113710005}
+{"elt":"29d 9:43 27","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0055)","ts":1767113710006}
+{"elt":"29d 9:43 30","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0055)","ts":1767113712304}
+{"elt":"29d 9:43 30","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0055)","ts":1767113712306}
+{"elt":"29d 9:43 30","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0055)","ts":1767113712308}
+{"elt":"29d 9:43 30","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_errors (PF).xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0055)","ts":1767113712309}
+{"elt":"29d 9:43 30","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 0055)","ts":1767113712321}
+{"elt":"29d 9:43 30","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0055)","ts":1767113712346}
+{"elt":"29d 9:43 30","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0055)","ts":1767113712346}
+{"elt":"29d 9:43 34","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0055)","ts":1767113716744}
+{"elt":"29d 9:43 34","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0055)","ts":1767113716744}
+{"elt":"29d 9:43 34","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0055)","ts":1767113716744}
+{"elt":"29d 9:43 34","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0055)","ts":1767113716752}
+{"elt":"29d 9:43 34","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0055)","ts":1767113716752}
+{"elt":"29d 9:56 43","tyn":1,"tys":"login","msg":"player login, count_login=0","dt":"(2025 1231 0108)","ts":1767114505290}
+{"elt":"29d 9:56 43","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0108)","ts":1767114505297}
+{"elt":"29d 9:56 43","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0108)","ts":1767114505308}
+{"elt":"29d 9:56 43","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0108)","ts":1767114505309}
+{"elt":"29d 9:56 44","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0108)","ts":1767114506322}
+{"elt":"29d 9:56 44","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0108)","ts":1767114506322}
+{"elt":"29d 9:56 48","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0108)","ts":1767114510666}
+{"elt":"29d 9:56 48","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0108)","ts":1767114510675}
+{"elt":"29d 9:56 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0108)","ts":1767114510683}
+{"elt":"29d 9:56 48","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0108)","ts":1767114510694}
+{"elt":"29d 9:56 48","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0108)","ts":1767114510714}
+{"elt":"29d 9:56 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0108)","ts":1767114510714}
+{"elt":"29d 9:56 53","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0108)","ts":1767114515993}
+{"elt":"29d 9:56 53","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0108)","ts":1767114515994}
+{"elt":"29d 9:56 53","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0108)","ts":1767114515994}
+{"elt":"29d 9:56 53","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0108)","ts":1767114516002}
+{"elt":"29d 9:56 53","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0108)","ts":1767114516003}
+{"elt":"29d 9:59 25","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0111)","ts":1767114667426}
+{"elt":"29d 9:59 25","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0111)","ts":1767114667426}
+{"elt":"29d 9:59 25","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0111)","ts":1767114667426}
+{"elt":"29d 9:59 25","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0111)","ts":1767114667433}
+{"elt":"29d 9:59 25","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0111)","ts":1767114667433}
+{"elt":"29d 9:59 40","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0111)","ts":1767114682492}
+{"elt":"29d 9:59 40","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0111)","ts":1767114682492}
+{"elt":"29d 9:59 40","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0111)","ts":1767114682492}
+{"elt":"29d 9:59 40","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0111)","ts":1767114682503}
+{"elt":"29d 9:59 40","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0111)","ts":1767114682503}
+{"elt":"29d 9:59 51","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0111)","ts":1767114693501}
+{"elt":"29d 9:59 51","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0111)","ts":1767114693501}
+{"elt":"29d 9:59 51","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0111)","ts":1767114693502}
+{"elt":"29d 9:59 51","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0111)","ts":1767114693512}
+{"elt":"29d 9:59 51","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0111)","ts":1767114693512}
+{"elt":"29d 10:0 41","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0112)","ts":1767114743977}
+{"elt":"29d 10:0 41","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0112)","ts":1767114743978}
+{"elt":"29d 10:0 41","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0112)","ts":1767114743978}
+{"elt":"29d 10:2 54","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0114)","ts":1767114876232}
+{"elt":"29d 10:2 54","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0114)","ts":1767114876233}
+{"elt":"29d 10:2 54","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0114)","ts":1767114876250}
+{"elt":"29d 10:2 54","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0114)","ts":1767114876250}
+{"elt":"29d 10:4 19","tyn":1,"tys":"login","msg":"player login, count_login=0","dt":"(2025 1231 0116)","ts":1767114961764}
+{"elt":"29d 10:4 19","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0116)","ts":1767114961765}
+{"elt":"29d 10:4 19","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0116)","ts":1767114961780}
+{"elt":"29d 10:4 19","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0116)","ts":1767114961781}
+{"elt":"29d 10:4 20","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0116)","ts":1767114962790}
+{"elt":"29d 10:4 20","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0116)","ts":1767114962790}
+{"elt":"29d 10:4 23","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0116)","ts":1767114965264}
+{"elt":"29d 10:4 23","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0116)","ts":1767114965268}
+{"elt":"29d 10:4 23","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0116)","ts":1767114965275}
+{"elt":"29d 10:4 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0116)","ts":1767114965285}
+{"elt":"29d 10:4 23","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0116)","ts":1767114965324}
+{"elt":"29d 10:4 23","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0116)","ts":1767114965324}
+{"elt":"29d 10:4 27","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0116)","ts":1767114969783}
+{"elt":"29d 10:4 27","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0116)","ts":1767114969784}
+{"elt":"29d 10:4 27","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0116)","ts":1767114969784}
+{"elt":"29d 10:4 27","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0116)","ts":1767114969795}
+{"elt":"29d 10:4 27","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0116)","ts":1767114969796}
+{"elt":"29d 10:5 28","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"load_decision\"} oldts=1767114861303 newts=1767115021540","dt":"(2025 1231 0117)","ts":1767115030918}
+{"elt":"29d 10:5 28","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 0117)","ts":1767115030932}
+{"elt":"29d 10:5 28","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0117)","ts":1767115030932}
+{"elt":"29d 10:5 28","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0117)","ts":1767115030947}
+{"elt":"29d 10:5 28","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0117)","ts":1767115030947}
+{"elt":"29d 10:5 30","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0117)","ts":1767115032788}
+{"elt":"29d 10:5 30","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0117)","ts":1767115032793}
+{"elt":"29d 10:5 30","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0117)","ts":1767115032800}
+{"elt":"29d 10:5 30","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0117)","ts":1767115032812}
+{"elt":"29d 10:5 30","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0117)","ts":1767115032874}
+{"elt":"29d 10:5 30","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0117)","ts":1767115032874}
+{"elt":"29d 10:5 46","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0117)","ts":1767115048190}
+{"elt":"29d 10:5 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0117)","ts":1767115048190}
+{"elt":"29d 10:5 46","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0117)","ts":1767115048190}
+{"elt":"29d 10:5 46","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0117)","ts":1767115048199}
+{"elt":"29d 10:5 46","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0117)","ts":1767115048199}
+{"elt":"29d 10:6 35","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"load_decision\"} oldts=1767115021540 newts=1767115092729","dt":"(2025 1231 0118)","ts":1767115097953}
+{"elt":"29d 10:6 35","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 0118)","ts":1767115097967}
+{"elt":"29d 10:6 35","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0118)","ts":1767115097968}
+{"elt":"29d 10:6 35","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0118)","ts":1767115097988}
+{"elt":"29d 10:6 35","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0118)","ts":1767115097989}
+{"elt":"29d 10:6 37","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0118)","ts":1767115099269}
+{"elt":"29d 10:6 37","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0118)","ts":1767115099273}
+{"elt":"29d 10:6 37","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0118)","ts":1767115099280}
+{"elt":"29d 10:6 37","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0118)","ts":1767115099291}
+{"elt":"29d 10:6 37","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0118)","ts":1767115099320}
+{"elt":"29d 10:6 37","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0118)","ts":1767115099320}
+{"elt":"29d 10:6 40","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0118)","ts":1767115102340}
+{"elt":"29d 10:6 40","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0118)","ts":1767115102341}
+{"elt":"29d 10:6 40","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0118)","ts":1767115102341}
+{"elt":"29d 10:6 40","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0118)","ts":1767115102351}
+{"elt":"29d 10:6 40","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0118)","ts":1767115102351}
+{"elt":"29d 10:10 39","tyn":1,"tys":"login","msg":"player login, count_login=0","dt":"(2025 1231 0122)","ts":1767115341670}
+{"elt":"29d 10:10 39","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0122)","ts":1767115341671}
+{"elt":"29d 10:10 39","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0122)","ts":1767115341686}
+{"elt":"29d 10:10 39","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0122)","ts":1767115341687}
+{"elt":"29d 10:10 40","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0122)","ts":1767115342695}
+{"elt":"29d 10:10 40","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0122)","ts":1767115342695}
+{"elt":"29d 10:10 43","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0122)","ts":1767115345100}
+{"elt":"29d 10:10 43","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0122)","ts":1767115345104}
+{"elt":"29d 10:10 43","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0122)","ts":1767115345106}
+{"elt":"29d 10:10 43","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0122)","ts":1767115345160}
+{"elt":"29d 10:10 43","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0122)","ts":1767115345160}
+{"elt":"29d 10:10 47","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0122)","ts":1767115349782}
+{"elt":"29d 10:10 47","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0122)","ts":1767115349782}
+{"elt":"29d 10:10 47","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0122)","ts":1767115349782}
+{"elt":"29d 10:10 47","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0122)","ts":1767115349796}
+{"elt":"29d 10:10 47","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0122)","ts":1767115349796}
+{"elt":"29d 10:12 20","tyn":1,"tys":"login","msg":"player login, count_login=1","dt":"(2025 1231 0124)","ts":1767115442450}
+{"elt":"29d 10:12 20","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0124)","ts":1767115442463}
+{"elt":"29d 10:12 20","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0124)","ts":1767115442464}
+{"elt":"29d 10:12 20","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0124)","ts":1767115442464}
+{"elt":"29d 10:12 21","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0124)","ts":1767115443477}
+{"elt":"29d 10:12 21","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0124)","ts":1767115443477}
+{"elt":"29d 10:12 24","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0124)","ts":1767115446925}
+{"elt":"29d 10:12 24","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0124)","ts":1767115446926}
+{"elt":"29d 10:12 24","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0124)","ts":1767115446926}
+{"elt":"29d 10:12 24","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0124)","ts":1767115446937}
+{"elt":"29d 10:12 24","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0124)","ts":1767115446937}
+{"elt":"29d 10:24 10","tyn":1,"tys":"login","msg":"player login, count_login=2","dt":"(2025 1231 0135)","ts":1767116152734}
+{"elt":"29d 10:24 10","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0135)","ts":1767116152751}
+{"elt":"29d 10:24 10","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0135)","ts":1767116152752}
+{"elt":"29d 10:24 10","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0135)","ts":1767116152752}
+{"elt":"29d 10:24 11","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0135)","ts":1767116153755}
+{"elt":"29d 10:24 11","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0135)","ts":1767116153755}
+{"elt":"29d 10:24 15","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0135)","ts":1767116157700}
+{"elt":"29d 10:24 15","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_5.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0135)","ts":1767116157701}
+{"elt":"29d 10:24 15","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0135)","ts":1767116157701}
+{"elt":"29d 10:24 15","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0135)","ts":1767116157710}
+{"elt":"29d 10:24 15","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0135)","ts":1767116157710}
+{"elt":"29d 10:24 18","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0136)","ts":1767116161044}
+{"elt":"29d 10:24 18","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_5.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0136)","ts":1767116161046}
+{"elt":"29d 10:24 18","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0136)","ts":1767116161047}
+{"elt":"29d 10:24 19","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0136)","ts":1767116161057}
+{"elt":"29d 10:24 19","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0136)","ts":1767116161057}
+{"elt":"29d 10:24 19","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0136)","ts":1767116161884}
+{"elt":"29d 10:24 19","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_5.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0136)","ts":1767116161885}
+{"elt":"29d 10:24 19","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0136)","ts":1767116161885}
+{"elt":"29d 10:24 19","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0136)","ts":1767116161895}
+{"elt":"29d 10:24 19","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0136)","ts":1767116161896}
+{"elt":"29d 10:24 23","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0136)","ts":1767116165874}
+{"elt":"29d 10:24 23","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0136)","ts":1767116165875}
+{"elt":"29d 10:24 23","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0136)","ts":1767116165875}
+{"elt":"29d 10:24 23","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0136)","ts":1767116165884}
+{"elt":"29d 10:24 23","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0136)","ts":1767116165884}
+{"elt":"29d 10:26 45","tyn":1,"tys":"login","msg":"player login, count_login=3","dt":"(2025 1231 0138)","ts":1767116307834}
+{"elt":"29d 10:26 45","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0138)","ts":1767116307851}
+{"elt":"29d 10:26 45","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0138)","ts":1767116307852}
+{"elt":"29d 10:26 45","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0138)","ts":1767116307852}
+{"elt":"29d 10:26 46","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0138)","ts":1767116308861}
+{"elt":"29d 10:26 46","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0138)","ts":1767116308861}
+{"elt":"29d 10:26 48","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 0138)","ts":1767116310484}
+{"elt":"29d 10:26 48","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0138)","ts":1767116310554}
+{"elt":"29d 10:26 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0138)","ts":1767116310554}
+{"elt":"29d 10:26 48","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0138)","ts":1767116310581}
+{"elt":"29d 10:26 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0138)","ts":1767116310582}
+{"elt":"29d 10:26 56","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0138)","ts":1767116318153}
+{"elt":"29d 10:26 56","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0138)","ts":1767116318154}
+{"elt":"29d 10:26 56","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0138)","ts":1767116318154}
+{"elt":"29d 10:26 56","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0138)","ts":1767116318168}
+{"elt":"29d 10:26 56","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0138)","ts":1767116318168}
+{"elt":"29d 10:36 8","tyn":1,"tys":"login","msg":"player login, count_login=4","dt":"(2025 1231 0147)","ts":1767116870943}
+{"elt":"29d 10:36 8","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0147)","ts":1767116870958}
+{"elt":"29d 10:36 8","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0147)","ts":1767116870959}
+{"elt":"29d 10:36 8","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0147)","ts":1767116870959}
+{"elt":"29d 10:36 9","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0147)","ts":1767116871965}
+{"elt":"29d 10:36 9","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0147)","ts":1767116871965}
+{"elt":"29d 10:36 11","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0147)","ts":1767116873686}
+{"elt":"29d 10:36 11","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0147)","ts":1767116873687}
+{"elt":"29d 10:36 11","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0147)","ts":1767116873687}
+{"elt":"29d 10:36 11","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0147)","ts":1767116873699}
+{"elt":"29d 10:36 11","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0147)","ts":1767116873699}
+{"elt":"29d 10:36 13","tyn":3,"tys":"command","msg":"http_command=rewind","dt":"(2025 1231 0147)","ts":1767116875618}
+{"elt":"29d 10:36 13","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0147)","ts":1767116875619}
+{"elt":"29d 10:36 13","tyn":8,"tys":"config","msg":"player_renewed options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0147)","ts":1767116875619}
+{"elt":"29d 10:36 13","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0147)","ts":1767116875620}
+{"elt":"29d 10:36 13","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0147)","ts":1767116875638}
+{"elt":"29d 10:36 13","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0147)","ts":1767116875639}
+{"elt":"29d 10:36 15","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0147)","ts":1767116877118}
+{"elt":"29d 10:36 15","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0147)","ts":1767116877120}
+{"elt":"29d 10:36 15","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0147)","ts":1767116877122}
+{"elt":"29d 10:36 15","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0147)","ts":1767116877123}
+{"elt":"29d 10:36 15","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0147)","ts":1767116877154}
+{"elt":"29d 10:36 15","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0147)","ts":1767116877154}
+{"elt":"29d 10:36 18","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0148)","ts":1767116880967}
+{"elt":"29d 10:36 18","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0148)","ts":1767116881009}
+{"elt":"29d 10:36 18","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0148)","ts":1767116881009}
+{"elt":"29d 10:36 18","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0148)","ts":1767116881013}
+{"elt":"29d 10:36 18","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0148)","ts":1767116881013}
+{"elt":"29d 10:36 18","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0148)","ts":1767116881013}
+{"elt":"29d 10:36 18","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0148)","ts":1767116881028}
+{"elt":"29d 10:36 18","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0148)","ts":1767116881028}
+{"elt":"29d 10:41 21","tyn":1,"tys":"login","msg":"player login, count_login=5","dt":"(2025 1231 0153)","ts":1767117183763}
+{"elt":"29d 10:41 21","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0153)","ts":1767117183783}
+{"elt":"29d 10:41 21","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0153)","ts":1767117183784}
+{"elt":"29d 10:41 21","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0153)","ts":1767117183784}
+{"elt":"29d 10:41 22","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0153)","ts":1767117184789}
+{"elt":"29d 10:41 22","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117184789}
+{"elt":"29d 10:41 26","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0153)","ts":1767117188449}
+{"elt":"29d 10:41 26","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117188480}
+{"elt":"29d 10:41 26","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117188481}
+{"elt":"29d 10:41 26","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0153)","ts":1767117188486}
+{"elt":"29d 10:41 26","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0153)","ts":1767117188487}
+{"elt":"29d 10:41 26","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0153)","ts":1767117188487}
+{"elt":"29d 10:41 26","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117188494}
+{"elt":"29d 10:41 26","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117188494}
+{"elt":"29d 10:41 32","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0153)","ts":1767117194310}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err434 line 16 Lorry 2) decision has lorry but no town","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err435 line 24 Paris) decision has town but no lorry","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err434 line 28 Lorry 1) decision has lorry but no town","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err434 line 34 Lorry 1) decision has lorry but no town","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err434 line 39 Lorry 1) decision has lorry but no town","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err434 line 40 Lorry 2) decision has lorry but no town","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err434 line 41 Lorry 3) decision has lorry but no town","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err436 line 47) decision has no town, no lorry, but loading and/or unloading","dt":"(2025 1231 0153)","ts":1767117194334}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err435 line 53 Rome) decision has town but no lorry","dt":"(2025 1231 0153)","ts":1767117194335}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err435 line 54 Berlin) decision has town but no lorry","dt":"(2025 1231 0153)","ts":1767117194335}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err435 line 55 Berlin) decision has town but no lorry","dt":"(2025 1231 0153)","ts":1767117194335}
+{"elt":"29d 10:41 32","tyn":7,"tys":"error","msg":"   > error msg to list: *** Decision File Transport (err435 line 56 Warsaw) decision has town but no lorry","dt":"(2025 1231 0153)","ts":1767117194335}
+{"elt":"29d 10:41 32","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117194335}
+{"elt":"29d 10:41 32","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0153)","ts":1767117194339}
+{"elt":"29d 10:41 32","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_errors (PF).xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0153)","ts":1767117194340}
+{"elt":"29d 10:41 32","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0153)","ts":1767117194340}
+{"elt":"29d 10:41 32","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117194363}
+{"elt":"29d 10:41 32","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117194363}
+{"elt":"29d 10:41 36","tyn":3,"tys":"command","msg":"http_command=rewind","dt":"(2025 1231 0153)","ts":1767117198895}
+{"elt":"29d 10:41 36","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_errors (PF).xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0153)","ts":1767117198895}
+{"elt":"29d 10:41 36","tyn":8,"tys":"config","msg":"player_renewed options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0153)","ts":1767117198895}
+{"elt":"29d 10:41 36","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0153)","ts":1767117198896}
+{"elt":"29d 10:41 36","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117198915}
+{"elt":"29d 10:41 36","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0153)","ts":1767117198915}
+{"elt":"29d 10:41 38","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0153)","ts":1767117200550}
+{"elt":"29d 10:41 38","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0153)","ts":1767117200552}
+{"elt":"29d 10:41 38","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0153)","ts":1767117200554}
+{"elt":"29d 10:41 38","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_errors (PF).xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0153)","ts":1767117200555}
+{"elt":"29d 10:41 38","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117200584}
+{"elt":"29d 10:41 38","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0153)","ts":1767117200585}
+{"elt":"29d 10:41 41","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0153)","ts":1767117204044}
+{"elt":"29d 10:41 42","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117204080}
+{"elt":"29d 10:41 42","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117204081}
+{"elt":"29d 10:41 42","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0153)","ts":1767117204087}
+{"elt":"29d 10:41 42","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0153)","ts":1767117204088}
+{"elt":"29d 10:41 42","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0153)","ts":1767117204088}
+{"elt":"29d 10:41 42","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117204117}
+{"elt":"29d 10:41 42","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0153)","ts":1767117204117}
+{"elt":"29d 10:41 44","tyn":3,"tys":"command","msg":"http_command=apply","dt":"(2025 1231 0153)","ts":1767117207012}
+{"elt":"29d 10:41 44","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 0153)","ts":1767117207023}
+{"elt":"29d 10:41 44","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 0153)","ts":1767117207023}
+{"elt":"29d 10:41 44","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117207039}
+{"elt":"29d 10:41 44","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 0153)","ts":1767117207040}
+{"elt":"29d 10:41 48","tyn":3,"tys":"command","msg":"http_command=confirm","dt":"(2025 1231 0153)","ts":1767117210914}
+{"elt":"29d 10:41 48","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 418 600 €, costs: 823 711 €","dt":"(2025 1231 0153)","ts":1767117210916}
+{"elt":"29d 10:41 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117210919}
+{"elt":"29d 10:41 48","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 0153)","ts":1767117210934}
+{"elt":"29d 10:41 48","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117210943}
+{"elt":"29d 10:41 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117210943}
+{"elt":"29d 10:41 51","tyn":3,"tys":"command","msg":"http_command=ffwd_last_month","dt":"(2025 1231 0153)","ts":1767117214020}
+{"elt":"29d 10:41 51","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 0153)","ts":1767117214024}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117214073}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 231 636 €","dt":"(2025 1231 0153)","ts":1767117214078}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 383 300 €, costs: 240 352 €","dt":"(2025 1231 0153)","ts":1767117214081}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117214083}
+{"elt":"29d 10:41 52","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 3.xlsx\", serverfile: S15_T155_decision_3\", file found:","dt":"(2025 1231 0153)","ts":1767117214086}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117214102}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 265 631 €","dt":"(2025 1231 0153)","ts":1767117214104}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 393 000 €, costs: 273 120 €","dt":"(2025 1231 0153)","ts":1767117214105}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117214107}
+{"elt":"29d 10:41 52","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 4.xlsx\", serverfile: S15_T155_decision_4\", file found:","dt":"(2025 1231 0153)","ts":1767117214109}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117214121}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 259 078 €","dt":"(2025 1231 0153)","ts":1767117214122}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 411 800 €, costs: 267 919 €","dt":"(2025 1231 0153)","ts":1767117214123}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117214125}
+{"elt":"29d 10:41 52","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 5.xlsx\", serverfile: S15_T155_decision_5\", file found:","dt":"(2025 1231 0153)","ts":1767117214127}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117214137}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 258 043 €","dt":"(2025 1231 0153)","ts":1767117214138}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 406 100 €, costs: 265 789 €","dt":"(2025 1231 0153)","ts":1767117214140}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117214142}
+{"elt":"29d 10:41 52","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 6.xlsx\", serverfile: S15_T155_decision_6\", file found:","dt":"(2025 1231 0153)","ts":1767117214144}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117214155}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -2 (qty avail)","dt":"(2025 1231 0153)","ts":1767117214156}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 246 278 €","dt":"(2025 1231 0153)","ts":1767117214156}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 269 400 €, costs: 254 457 €","dt":"(2025 1231 0153)","ts":1767117214157}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117214160}
+{"elt":"29d 10:41 52","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 7.xlsx\", serverfile: S15_T155_decision_7\", file found:","dt":"(2025 1231 0153)","ts":1767117214162}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0153)","ts":1767117214184}
+{"elt":"29d 10:41 52","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1119) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 3 (qty consumed) remain -3 (qty avail)","dt":"(2025 1231 0153)","ts":1767117214187}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 168 191 €","dt":"(2025 1231 0153)","ts":1767117214187}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 345 800 €, costs: 177 964 €","dt":"(2025 1231 0153)","ts":1767117214190}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1231 0153)","ts":1767117214196}
+{"elt":"29d 10:41 52","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 0153)","ts":1767117214200}
+{"elt":"29d 10:41 52","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 0153)","ts":1767117214205}
+{"elt":"29d 10:41 52","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0153)","ts":1767117214213}
+{"elt":"29d 10:41 52","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=END","dt":"(2025 1231 0153)","ts":1767117214213}
+{"elt":"29d 10:45 10","tyn":1,"tys":"login","msg":"player login, count_login=0","dt":"(2025 1231 0156)","ts":1767117413022}
+{"elt":"29d 10:45 10","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0156)","ts":1767117413024}
+{"elt":"29d 10:45 10","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0156)","ts":1767117413040}
+{"elt":"29d 10:45 10","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0156)","ts":1767117413041}
+{"elt":"29d 10:45 12","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0156)","ts":1767117414055}
+{"elt":"29d 10:45 12","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0156)","ts":1767117414056}
+{"elt":"29d 10:45 27","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"start\"} oldts=1767117403414 newts=1767117425891","dt":"(2025 1231 0157)","ts":1767117429480}
+{"elt":"29d 10:45 27","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 0157)","ts":1767117429496}
+{"elt":"29d 10:45 27","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0157)","ts":1767117429496}
+{"elt":"29d 10:45 27","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0157)","ts":1767117429509}
+{"elt":"29d 10:45 27","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0157)","ts":1767117429509}
+{"elt":"29d 10:45 31","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0157)","ts":1767117433573}
+{"elt":"29d 10:45 31","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0157)","ts":1767117433578}
+{"elt":"29d 10:45 31","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0157)","ts":1767117433585}
+{"elt":"29d 10:45 31","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0157)","ts":1767117433596}
+{"elt":"29d 10:45 31","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0157)","ts":1767117433639}
+{"elt":"29d 10:45 31","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0157)","ts":1767117433639}
+{"elt":"29d 10:45 37","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0157)","ts":1767117439113}
+{"elt":"29d 10:45 37","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0157)","ts":1767117439150}
+{"elt":"29d 10:45 37","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0157)","ts":1767117439151}
+{"elt":"29d 10:45 37","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0157)","ts":1767117439156}
+{"elt":"29d 10:45 37","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0157)","ts":1767117439156}
+{"elt":"29d 10:45 37","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0157)","ts":1767117439157}
+{"elt":"29d 10:45 37","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0157)","ts":1767117439171}
+{"elt":"29d 10:45 37","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0157)","ts":1767117439172}
+{"elt":"29d 10:46 5","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0157)","ts":1767117467236}
+{"elt":"29d 10:46 5","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0157)","ts":1767117467238}
+{"elt":"29d 10:46 5","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0157)","ts":1767117467253}
+{"elt":"29d 10:46 5","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0157)","ts":1767117467253}
+{"elt":"29d 10:47 47","tyn":1,"tys":"login","msg":"player login, count_login=0","dt":"(2025 1231 0159)","ts":1767117569929}
+{"elt":"29d 10:47 47","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0159)","ts":1767117569931}
+{"elt":"29d 10:47 47","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 0159)","ts":1767117569950}
+{"elt":"29d 10:47 47","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0159)","ts":1767117569950}
+{"elt":"29d 10:47 48","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 0159)","ts":1767117570954}
+{"elt":"29d 10:47 48","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0159)","ts":1767117570954}
+{"elt":"29d 10:47 49","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0159)","ts":1767117571558}
+{"elt":"29d 10:47 49","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0159)","ts":1767117571565}
+{"elt":"29d 10:47 49","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0159)","ts":1767117571572}
+{"elt":"29d 10:47 49","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0159)","ts":1767117571583}
+{"elt":"29d 10:47 49","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0159)","ts":1767117571619}
+{"elt":"29d 10:47 49","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0159)","ts":1767117571620}
+{"elt":"29d 10:47 53","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0159)","ts":1767117575113}
+{"elt":"29d 10:47 53","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0159)","ts":1767117575165}
+{"elt":"29d 10:47 53","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0159)","ts":1767117575165}
+{"elt":"29d 10:47 53","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0159)","ts":1767117575169}
+{"elt":"29d 10:47 53","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0159)","ts":1767117575169}
+{"elt":"29d 10:47 53","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0159)","ts":1767117575169}
+{"elt":"29d 10:47 53","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0159)","ts":1767117575182}
+{"elt":"29d 10:47 53","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0159)","ts":1767117575182}
+{"elt":"29d 10:47 55","tyn":3,"tys":"command","msg":"http_command=apply","dt":"(2025 1231 0159)","ts":1767117577598}
+{"elt":"29d 10:47 55","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 0159)","ts":1767117577608}
+{"elt":"29d 10:47 55","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 0159)","ts":1767117577609}
+{"elt":"29d 10:47 55","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0159)","ts":1767117577626}
+{"elt":"29d 10:47 55","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 0159)","ts":1767117577626}
+{"elt":"29d 10:49 56","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0201)","ts":1767117698559}
+{"elt":"29d 10:49 56","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0201)","ts":1767117698560}
+{"elt":"29d 10:49 56","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0201)","ts":1767117698600}
+{"elt":"29d 10:49 56","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0201)","ts":1767117698600}
+{"elt":"29d 10:49 58","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0201)","ts":1767117700121}
+{"elt":"29d 10:49 58","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0201)","ts":1767117700126}
+{"elt":"29d 10:49 58","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0201)","ts":1767117700136}
+{"elt":"29d 10:49 58","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0201)","ts":1767117700150}
+{"elt":"29d 10:49 58","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0201)","ts":1767117700179}
+{"elt":"29d 10:49 58","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0201)","ts":1767117700179}
+{"elt":"29d 10:50 1","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0201)","ts":1767117703425}
+{"elt":"29d 10:50 1","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0201)","ts":1767117703466}
+{"elt":"29d 10:50 1","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0201)","ts":1767117703467}
+{"elt":"29d 10:50 1","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0201)","ts":1767117703473}
+{"elt":"29d 10:50 1","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0201)","ts":1767117703473}
+{"elt":"29d 10:50 1","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0201)","ts":1767117703473}
+{"elt":"29d 10:50 1","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0201)","ts":1767117703483}
+{"elt":"29d 10:50 1","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0201)","ts":1767117703484}
+{"elt":"29d 11:2 37","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 0214)","ts":1767118459545}
+{"elt":"29d 11:2 37","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0214)","ts":1767118459546}
+{"elt":"29d 11:2 37","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0214)","ts":1767118459559}
+{"elt":"29d 11:2 37","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 0214)","ts":1767118459560}
+{"elt":"29d 11:2 39","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 0214)","ts":1767118461210}
+{"elt":"29d 11:2 39","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 0214)","ts":1767118461215}
+{"elt":"29d 11:2 39","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0214)","ts":1767118461223}
+{"elt":"29d 11:2 39","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0214)","ts":1767118461233}
+{"elt":"29d 11:2 39","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0214)","ts":1767118461248}
+{"elt":"29d 11:2 39","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 0214)","ts":1767118461248}
+{"elt":"29d 11:2 49","tyn":12,"tys":"decision","msg":"existing serverfile archived: _replaced_(2025 1231 021431)","dt":"(2025 1231 0214)","ts":1767118471169}
+{"elt":"29d 11:2 49","tyn":12,"tys":"decision","msg":"upload new localfile: decision_nouvelle 1.xlsx to: S15_T155_decision_1","dt":"(2025 1231 0214)","ts":1767118471170}
+{"elt":"29d 11:2 49","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 0214)","ts":1767118471184}
+{"elt":"29d 11:2 49","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 0214)","ts":1767118471186}
+{"elt":"29d 11:2 49","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 0214)","ts":1767118471233}
+{"elt":"29d 11:2 49","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0214)","ts":1767118471233}
+{"elt":"29d 11:2 49","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 0214)","ts":1767118471236}
+{"elt":"29d 11:2 49","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0214)","ts":1767118471236}
+{"elt":"29d 11:2 49","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0214)","ts":1767118471236}
+{"elt":"29d 11:2 49","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 0214)","ts":1767118471241}
+{"elt":"29d 11:2 49","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 0214)","ts":1767118471241}
+{"elt":"29d 15:40 32","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 0652)","ts":1767135134981}
+{"elt":"29d 15:40 32","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0652)","ts":1767135134982}
+{"elt":"29d 15:40 32","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0652)","ts":1767135134982}
+{"elt":"29d 15:40 39","tyn":6,"tys":"admin","msg":"http_admin, /send_message","dt":"(2025 1231 0652)","ts":1767135141766}
+{"elt":"29d 15:42 48","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 0654)","ts":1767135270171}
+{"elt":"29d 15:42 48","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 0654)","ts":1767135270171}
+{"elt":"29d 15:42 48","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 0654)","ts":1767135270172}
+{"elt":"30d 3:11 39","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 1823)","ts":1767176601421}
+{"elt":"30d 3:11 39","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 1823)","ts":1767176601421}
+{"elt":"30d 3:18 34","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 1830)","ts":1767177016900}
+{"elt":"30d 3:18 34","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 1830)","ts":1767177016901}
+{"elt":"30d 3:19 51","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 1831)","ts":1767177093399}
+{"elt":"30d 3:19 51","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 1831)","ts":1767177093399}
+{"elt":"30d 3:25 16","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 1836)","ts":1767177418116}
+{"elt":"30d 3:25 16","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 1836)","ts":1767177418116}
+{"elt":"30d 3:25 18","tyn":6,"tys":"admin","msg":"http_admin, /send_message","dt":"(2025 1231 1837)","ts":1767177420060}
+{"elt":"30d 5:5 30","tyn":1,"tys":"login","msg":"player login, count_login=0","dt":"(2025 1231 2017)","ts":1767183432892}
+{"elt":"30d 5:5 30","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2017)","ts":1767183432894}
+{"elt":"30d 5:5 30","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_login","dt":"(2025 1231 2017)","ts":1767183432906}
+{"elt":"30d 5:5 30","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2017)","ts":1767183432907}
+{"elt":"30d 5:5 31","tyn":10,"tys":"system","msg":"http_player /update_month/on_init","dt":"(2025 1231 2017)","ts":1767183433914}
+{"elt":"30d 5:5 31","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2017)","ts":1767183433915}
+{"elt":"30d 5:5 32","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2017)","ts":1767183434935}
+{"elt":"30d 5:5 32","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2017)","ts":1767183434940}
+{"elt":"30d 5:5 32","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2017)","ts":1767183434948}
+{"elt":"30d 5:5 32","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2017)","ts":1767183434959}
+{"elt":"30d 5:5 32","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2017)","ts":1767183434983}
+{"elt":"30d 5:5 32","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2017)","ts":1767183434983}
+{"elt":"30d 5:5 34","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 2017)","ts":1767183436585}
+{"elt":"30d 5:5 34","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2017)","ts":1767183436586}
+{"elt":"30d 5:5 34","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2017)","ts":1767183436654}
+{"elt":"30d 5:5 34","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2017)","ts":1767183436654}
+{"elt":"30d 5:5 34","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2017)","ts":1767183436666}
+{"elt":"30d 5:5 34","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2017)","ts":1767183436666}
+{"elt":"30d 5:5 42","tyn":12,"tys":"decision","msg":"existing serverfile archived: _replaced_(2025 1231 201724)","dt":"(2025 1231 2017)","ts":1767183444714}
+{"elt":"30d 5:5 42","tyn":12,"tys":"decision","msg":"upload new localfile: decision_nouvelle 1.xlsx to: S15_T155_decision_1","dt":"(2025 1231 2017)","ts":1767183444715}
+{"elt":"30d 5:5 42","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 2017)","ts":1767183444728}
+{"elt":"30d 5:5 42","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2017)","ts":1767183444730}
+{"elt":"30d 5:5 42","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2017)","ts":1767183444776}
+{"elt":"30d 5:5 42","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2017)","ts":1767183444777}
+{"elt":"30d 5:5 42","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 2017)","ts":1767183444781}
+{"elt":"30d 5:5 42","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2017)","ts":1767183444781}
+{"elt":"30d 5:5 42","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2017)","ts":1767183444781}
+{"elt":"30d 5:5 42","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2017)","ts":1767183444784}
+{"elt":"30d 5:5 42","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2017)","ts":1767183444784}
+{"elt":"30d 5:17 46","tyn":9,"tys":"view","msg":"http_results subtotal this_month _ {}","dt":"(2025 1231 2029)","ts":1767184168884}
+{"elt":"30d 5:17 53","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2029)","ts":1767184175391}
+{"elt":"30d 5:19 28","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"rewind\"} oldts=1767183398700 newts=1767184263911","dt":"(2025 1231 2031)","ts":1767184270115}
+{"elt":"30d 5:19 28","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 2031)","ts":1767184270126}
+{"elt":"30d 5:19 28","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2031)","ts":1767184270126}
+{"elt":"30d 5:19 28","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2031)","ts":1767184270138}
+{"elt":"30d 5:19 28","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2031)","ts":1767184270139}
+{"elt":"30d 5:19 29","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2031)","ts":1767184271652}
+{"elt":"30d 5:19 29","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2031)","ts":1767184271657}
+{"elt":"30d 5:19 29","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2031)","ts":1767184271664}
+{"elt":"30d 5:19 29","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2031)","ts":1767184271673}
+{"elt":"30d 5:19 29","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2031)","ts":1767184271682}
+{"elt":"30d 5:19 29","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2031)","ts":1767184271689}
+{"elt":"30d 5:19 29","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2031)","ts":1767184271689}
+{"elt":"30d 5:21 31","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2033)","ts":1767184393739}
+{"elt":"30d 5:21 31","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2033)","ts":1767184393740}
+{"elt":"30d 5:21 31","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2033)","ts":1767184393749}
+{"elt":"30d 5:21 31","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2033)","ts":1767184393750}
+{"elt":"30d 5:21 33","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2033)","ts":1767184395888}
+{"elt":"30d 5:21 33","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2033)","ts":1767184395892}
+{"elt":"30d 5:21 33","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2033)","ts":1767184395899}
+{"elt":"30d 5:21 33","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2033)","ts":1767184395909}
+{"elt":"30d 5:21 33","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2033)","ts":1767184395918}
+{"elt":"30d 5:21 33","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2033)","ts":1767184395925}
+{"elt":"30d 5:21 33","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2033)","ts":1767184395925}
+{"elt":"30d 5:21 35","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 2033)","ts":1767184397374}
+{"elt":"30d 5:21 35","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2033)","ts":1767184397375}
+{"elt":"30d 5:21 35","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2033)","ts":1767184397441}
+{"elt":"30d 5:21 35","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2033)","ts":1767184397442}
+{"elt":"30d 5:21 35","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2033)","ts":1767184397447}
+{"elt":"30d 5:21 35","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2033)","ts":1767184397451}
+{"elt":"30d 5:21 35","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2033)","ts":1767184397451}
+{"elt":"30d 5:21 38","tyn":3,"tys":"command","msg":"http_command=rewind","dt":"(2025 1231 2033)","ts":1767184400852}
+{"elt":"30d 5:21 38","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2033)","ts":1767184400853}
+{"elt":"30d 5:21 38","tyn":8,"tys":"config","msg":"player_renewed options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2033)","ts":1767184400853}
+{"elt":"30d 5:21 38","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2033)","ts":1767184400854}
+{"elt":"30d 5:21 38","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2033)","ts":1767184400865}
+{"elt":"30d 5:21 38","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2033)","ts":1767184400870}
+{"elt":"30d 5:21 38","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2033)","ts":1767184400870}
+{"elt":"30d 5:21 40","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2033)","ts":1767184402766}
+{"elt":"30d 5:21 40","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2033)","ts":1767184402768}
+{"elt":"30d 5:21 40","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2033)","ts":1767184402770}
+{"elt":"30d 5:21 40","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2033)","ts":1767184402771}
+{"elt":"30d 5:21 40","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2033)","ts":1767184402778}
+{"elt":"30d 5:21 40","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2033)","ts":1767184402786}
+{"elt":"30d 5:21 40","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2033)","ts":1767184402786}
+{"elt":"30d 5:25 43","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"rewind\"} oldts=1767184393575 newts=1767184639641","dt":"(2025 1231 2037)","ts":1767184645704}
+{"elt":"30d 5:25 43","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 2037)","ts":1767184645714}
+{"elt":"30d 5:25 43","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2037)","ts":1767184645715}
+{"elt":"30d 5:25 43","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184645723}
+{"elt":"30d 5:25 43","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2037)","ts":1767184645724}
+{"elt":"30d 5:25 45","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2037)","ts":1767184647796}
+{"elt":"30d 5:25 45","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2037)","ts":1767184647800}
+{"elt":"30d 5:25 45","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2037)","ts":1767184647808}
+{"elt":"30d 5:25 45","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2037)","ts":1767184647817}
+{"elt":"30d 5:25 45","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2037)","ts":1767184647826}
+{"elt":"30d 5:25 45","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184647831}
+{"elt":"30d 5:25 45","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2037)","ts":1767184647832}
+{"elt":"30d 5:25 48","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 2037)","ts":1767184650384}
+{"elt":"30d 5:25 48","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2037)","ts":1767184650385}
+{"elt":"30d 5:25 48","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2037)","ts":1767184650442}
+{"elt":"30d 5:25 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184650443}
+{"elt":"30d 5:25 48","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2037)","ts":1767184650449}
+{"elt":"30d 5:25 48","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184650455}
+{"elt":"30d 5:25 48","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184650455}
+{"elt":"30d 5:25 50","tyn":3,"tys":"command","msg":"http_command=reload_decision","dt":"(2025 1231 2037)","ts":1767184653021}
+{"elt":"30d 5:25 50","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2037)","ts":1767184653022}
+{"elt":"30d 5:25 51","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2037)","ts":1767184653067}
+{"elt":"30d 5:25 51","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184653068}
+{"elt":"30d 5:25 51","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2037)","ts":1767184653077}
+{"elt":"30d 5:25 51","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184653080}
+{"elt":"30d 5:25 51","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184653080}
+{"elt":"30d 5:25 53","tyn":3,"tys":"command","msg":"http_command=apply","dt":"(2025 1231 2037)","ts":1767184655560}
+{"elt":"30d 5:25 53","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 2037)","ts":1767184655570}
+{"elt":"30d 5:25 53","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 2037)","ts":1767184655571}
+{"elt":"30d 5:25 53","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2037)","ts":1767184655580}
+{"elt":"30d 5:25 53","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184655583}
+{"elt":"30d 5:25 53","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 2037)","ts":1767184655584}
+{"elt":"30d 5:25 55","tyn":3,"tys":"command","msg":"http_command=cancel","dt":"(2025 1231 2037)","ts":1767184657608}
+{"elt":"30d 5:25 55","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184657610}
+{"elt":"30d 5:25 55","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2037)","ts":1767184657619}
+{"elt":"30d 5:25 55","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184657623}
+{"elt":"30d 5:25 55","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184657623}
+{"elt":"30d 5:26 17","tyn":3,"tys":"command","msg":"http_command=reload_decision","dt":"(2025 1231 2037)","ts":1767184679488}
+{"elt":"30d 5:26 17","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2037)","ts":1767184679490}
+{"elt":"30d 5:26 17","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2037)","ts":1767184679537}
+{"elt":"30d 5:26 17","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184679537}
+{"elt":"30d 5:26 17","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2037)","ts":1767184679545}
+{"elt":"30d 5:26 17","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2037)","ts":1767184679548}
+{"elt":"30d 5:26 17","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2037)","ts":1767184679548}
+{"elt":"30d 5:27 22","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2039)","ts":1767184744575}
+{"elt":"30d 5:27 22","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2039)","ts":1767184744576}
+{"elt":"30d 5:27 22","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184744591}
+{"elt":"30d 5:27 22","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2039)","ts":1767184744591}
+{"elt":"30d 5:27 25","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2039)","ts":1767184747586}
+{"elt":"30d 5:27 25","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2039)","ts":1767184747590}
+{"elt":"30d 5:27 25","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2039)","ts":1767184747597}
+{"elt":"30d 5:27 25","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2039)","ts":1767184747606}
+{"elt":"30d 5:27 25","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184747615}
+{"elt":"30d 5:27 25","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184747621}
+{"elt":"30d 5:27 25","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2039)","ts":1767184747621}
+{"elt":"30d 5:27 28","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 2039)","ts":1767184750511}
+{"elt":"30d 5:27 28","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2039)","ts":1767184750512}
+{"elt":"30d 5:27 28","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2039)","ts":1767184750577}
+{"elt":"30d 5:27 28","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184750578}
+{"elt":"30d 5:27 28","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184750585}
+{"elt":"30d 5:27 28","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184750590}
+{"elt":"30d 5:27 28","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184750591}
+{"elt":"30d 5:27 32","tyn":3,"tys":"command","msg":"http_command=reload_decision","dt":"(2025 1231 2039)","ts":1767184754493}
+{"elt":"30d 5:27 32","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2039)","ts":1767184754495}
+{"elt":"30d 5:27 32","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2039)","ts":1767184754547}
+{"elt":"30d 5:27 32","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184754547}
+{"elt":"30d 5:27 32","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184754555}
+{"elt":"30d 5:27 32","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184754558}
+{"elt":"30d 5:27 32","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184754559}
+{"elt":"30d 5:27 34","tyn":3,"tys":"command","msg":"http_command=apply","dt":"(2025 1231 2039)","ts":1767184756491}
+{"elt":"30d 5:27 34","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 2039)","ts":1767184756502}
+{"elt":"30d 5:27 34","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 2039)","ts":1767184756502}
+{"elt":"30d 5:27 34","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184756511}
+{"elt":"30d 5:27 34","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184756518}
+{"elt":"30d 5:27 34","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 2039)","ts":1767184756518}
+{"elt":"30d 5:27 36","tyn":3,"tys":"command","msg":"http_command=cancel","dt":"(2025 1231 2039)","ts":1767184758504}
+{"elt":"30d 5:27 36","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184758507}
+{"elt":"30d 5:27 36","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184758516}
+{"elt":"30d 5:27 36","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184758523}
+{"elt":"30d 5:27 36","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184758523}
+{"elt":"30d 5:27 43","tyn":3,"tys":"command","msg":"http_command=reload_decision","dt":"(2025 1231 2039)","ts":1767184765334}
+{"elt":"30d 5:27 43","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2039)","ts":1767184765336}
+{"elt":"30d 5:27 43","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2039)","ts":1767184765364}
+{"elt":"30d 5:27 43","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184765364}
+{"elt":"30d 5:27 43","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184765372}
+{"elt":"30d 5:27 43","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184765376}
+{"elt":"30d 5:27 43","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184765376}
+{"elt":"30d 5:28 6","tyn":12,"tys":"decision","msg":"existing serverfile archived: _replaced_(2025 1231 203948)","dt":"(2025 1231 2039)","ts":1767184788485}
+{"elt":"30d 5:28 6","tyn":12,"tys":"decision","msg":"upload new localfile: decision_nouvelle 1.xlsx to: S15_T155_decision_1","dt":"(2025 1231 2039)","ts":1767184788486}
+{"elt":"30d 5:28 6","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 2039)","ts":1767184788498}
+{"elt":"30d 5:28 6","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2039)","ts":1767184788499}
+{"elt":"30d 5:28 6","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2039)","ts":1767184788521}
+{"elt":"30d 5:28 6","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184788521}
+{"elt":"30d 5:28 6","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 2039)","ts":1767184788525}
+{"elt":"30d 5:28 6","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2039)","ts":1767184788525}
+{"elt":"30d 5:28 6","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2039)","ts":1767184788525}
+{"elt":"30d 5:28 6","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184788529}
+{"elt":"30d 5:28 6","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184788530}
+{"elt":"30d 5:28 6","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184788530}
+{"elt":"30d 5:28 15","tyn":12,"tys":"decision","msg":"existing serverfile archived: _replaced_(2025 1231 203957)","dt":"(2025 1231 2039)","ts":1767184797795}
+{"elt":"30d 5:28 15","tyn":12,"tys":"decision","msg":"upload new localfile: decision_nouvelle 1.xlsx to: S15_T155_decision_1","dt":"(2025 1231 2039)","ts":1767184797796}
+{"elt":"30d 5:28 15","tyn":3,"tys":"command","msg":"http_command=decision_file_uploaded","dt":"(2025 1231 2039)","ts":1767184797807}
+{"elt":"30d 5:28 15","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2039)","ts":1767184797808}
+{"elt":"30d 5:28 15","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2039)","ts":1767184797841}
+{"elt":"30d 5:28 15","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184797841}
+{"elt":"30d 5:28 15","tyn":10,"tys":"system","msg":"player_refresh=auto, update_from_broadcast_player","dt":"(2025 1231 2039)","ts":1767184797846}
+{"elt":"30d 5:28 15","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2039)","ts":1767184797847}
+{"elt":"30d 5:28 15","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2039)","ts":1767184797847}
+{"elt":"30d 5:28 15","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2039)","ts":1767184797851}
+{"elt":"30d 5:28 15","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2039)","ts":1767184797854}
+{"elt":"30d 5:28 15","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2039)","ts":1767184797854}
+{"elt":"30d 5:28 47","tyn":3,"tys":"command","msg":"http_command=apply","dt":"(2025 1231 2040)","ts":1767184829371}
+{"elt":"30d 5:28 47","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 2040)","ts":1767184829373}
+{"elt":"30d 5:28 47","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 2040)","ts":1767184829373}
+{"elt":"30d 5:28 47","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2040)","ts":1767184829381}
+{"elt":"30d 5:28 47","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2040)","ts":1767184829387}
+{"elt":"30d 5:28 47","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=APPLIED","dt":"(2025 1231 2040)","ts":1767184829388}
+{"elt":"30d 5:28 49","tyn":3,"tys":"command","msg":"http_command=confirm","dt":"(2025 1231 2040)","ts":1767184831131}
+{"elt":"30d 5:28 49","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 418 600 €, costs: 823 711 €","dt":"(2025 1231 2040)","ts":1767184831133}
+{"elt":"30d 5:28 49","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2040)","ts":1767184831136}
+{"elt":"30d 5:28 49","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2040)","ts":1767184831147}
+{"elt":"30d 5:28 49","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2040)","ts":1767184831153}
+{"elt":"30d 5:28 49","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2040)","ts":1767184831153}
+{"elt":"30d 5:28 50","tyn":3,"tys":"command","msg":"http_command=close","dt":"(2025 1231 2040)","ts":1767184833017}
+{"elt":"30d 5:28 50","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=START","dt":"(2025 1231 2040)","ts":1767184833019}
+{"elt":"30d 5:28 50","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2040)","ts":1767184833021}
+{"elt":"30d 5:28 50","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2040)","ts":1767184833028}
+{"elt":"30d 5:28 50","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2040)","ts":1767184833036}
+{"elt":"30d 5:28 50","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=START","dt":"(2025 1231 2040)","ts":1767184833036}
+{"elt":"30d 5:28 54","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 2040)","ts":1767184836800}
+{"elt":"30d 5:28 54","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_2.xlsx","dt":"(2025 1231 2040)","ts":1767184836801}
+{"elt":"30d 5:28 54","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2040)","ts":1767184836830}
+{"elt":"30d 5:28 54","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=LOADED","dt":"(2025 1231 2040)","ts":1767184836831}
+{"elt":"30d 5:28 54","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2040)","ts":1767184836838}
+{"elt":"30d 5:28 54","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2040)","ts":1767184836844}
+{"elt":"30d 5:28 54","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=LOADED","dt":"(2025 1231 2040)","ts":1767184836844}
+{"elt":"30d 5:30 1","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2041)","ts":1767184903592}
+{"elt":"30d 5:30 1","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2041)","ts":1767184903594}
+{"elt":"30d 5:30 1","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2041)","ts":1767184903607}
+{"elt":"30d 5:30 1","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2041)","ts":1767184903607}
+{"elt":"30d 5:30 3","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2041)","ts":1767184905421}
+{"elt":"30d 5:30 3","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2041)","ts":1767184905423}
+{"elt":"30d 5:30 3","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2041)","ts":1767184905426}
+{"elt":"30d 5:30 3","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2041)","ts":1767184905430}
+{"elt":"30d 5:30 3","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2041)","ts":1767184905436}
+{"elt":"30d 5:30 3","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2041)","ts":1767184905438}
+{"elt":"30d 5:30 3","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2041)","ts":1767184905439}
+{"elt":"30d 5:32 42","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"load_decision\"} oldts=1767184899630 newts=1767185051207","dt":"(2025 1231 2044)","ts":1767185064960}
+{"elt":"30d 5:32 42","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 2044)","ts":1767185064970}
+{"elt":"30d 5:32 42","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2044)","ts":1767185064971}
+{"elt":"30d 5:32 42","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2044)","ts":1767185064984}
+{"elt":"30d 5:32 42","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2044)","ts":1767185064985}
+{"elt":"30d 5:32 44","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2044)","ts":1767185066261}
+{"elt":"30d 5:32 44","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2044)","ts":1767185066266}
+{"elt":"30d 5:32 44","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2044)","ts":1767185066282}
+{"elt":"30d 5:32 44","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2044)","ts":1767185066284}
+{"elt":"30d 5:32 44","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2044)","ts":1767185066337}
+{"elt":"30d 5:32 44","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 2044)","ts":1767185066343}
+{"elt":"30d 5:32 44","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 418 600 €, costs: 823 711 €","dt":"(2025 1231 2044)","ts":1767185066345}
+{"elt":"30d 5:32 44","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185066346}
+{"elt":"30d 5:32 44","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2044)","ts":1767185066348}
+{"elt":"30d 5:32 44","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2044)","ts":1767185066353}
+{"elt":"30d 5:32 44","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2044)","ts":1767185066357}
+{"elt":"30d 5:32 44","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185066357}
+{"elt":"30d 5:32 46","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2044)","ts":1767185068737}
+{"elt":"30d 5:32 46","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2044)","ts":1767185068741}
+{"elt":"30d 5:32 46","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_2.xlsx","dt":"(2025 1231 2044)","ts":1767185068743}
+{"elt":"30d 5:32 46","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2044)","ts":1767185068795}
+{"elt":"30d 5:32 46","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 231 636 €","dt":"(2025 1231 2044)","ts":1767185068799}
+{"elt":"30d 5:32 46","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 383 300 €, costs: 240 352 €","dt":"(2025 1231 2044)","ts":1767185068801}
+{"elt":"30d 5:32 46","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185068802}
+{"elt":"30d 5:32 46","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2044)","ts":1767185068804}
+{"elt":"30d 5:32 46","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2044)","ts":1767185068811}
+{"elt":"30d 5:32 46","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2044)","ts":1767185068818}
+{"elt":"30d 5:32 46","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185068818}
+{"elt":"30d 5:33 10","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2044)","ts":1767185092103}
+{"elt":"30d 5:33 10","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2044)","ts":1767185092103}
+{"elt":"30d 5:33 10","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2044)","ts":1767185092103}
+{"elt":"30d 5:33 10","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2044)","ts":1767185092110}
+{"elt":"30d 5:33 10","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185092110}
+{"elt":"30d 5:33 14","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2044)","ts":1767185096464}
+{"elt":"30d 5:33 14","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2044)","ts":1767185096464}
+{"elt":"30d 5:33 14","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2044)","ts":1767185096465}
+{"elt":"30d 5:33 14","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2044)","ts":1767185096472}
+{"elt":"30d 5:33 14","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185096473}
+{"elt":"30d 5:33 15","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2044)","ts":1767185097655}
+{"elt":"30d 5:33 15","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2044)","ts":1767185097656}
+{"elt":"30d 5:33 15","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2044)","ts":1767185097656}
+{"elt":"30d 5:33 15","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2044)","ts":1767185097663}
+{"elt":"30d 5:33 15","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2044)","ts":1767185097664}
+{"elt":"30d 5:33 18","tyn":3,"tys":"command","msg":"http_command=rewind","dt":"(2025 1231 2045)","ts":1767185100427}
+{"elt":"30d 5:33 18","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2045)","ts":1767185100428}
+{"elt":"30d 5:33 18","tyn":8,"tys":"config","msg":"player_renewed options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2045)","ts":1767185100428}
+{"elt":"30d 5:33 18","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2045)","ts":1767185100428}
+{"elt":"30d 5:33 18","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2045)","ts":1767185100440}
+{"elt":"30d 5:33 18","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2045)","ts":1767185100447}
+{"elt":"30d 5:33 18","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2045)","ts":1767185100447}
+{"elt":"30d 5:33 20","tyn":3,"tys":"command","msg":"http_command=start","dt":"(2025 1231 2045)","ts":1767185102501}
+{"elt":"30d 5:33 20","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2045)","ts":1767185102503}
+{"elt":"30d 5:33 20","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2045)","ts":1767185102505}
+{"elt":"30d 5:33 20","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2045)","ts":1767185102507}
+{"elt":"30d 5:33 20","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2045)","ts":1767185102514}
+{"elt":"30d 5:33 20","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2045)","ts":1767185102519}
+{"elt":"30d 5:33 20","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=START","dt":"(2025 1231 2045)","ts":1767185102520}
+{"elt":"30d 5:33 24","tyn":3,"tys":"command","msg":"http_command=load_decision","dt":"(2025 1231 2045)","ts":1767185106281}
+{"elt":"30d 5:33 24","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2045)","ts":1767185106282}
+{"elt":"30d 5:33 24","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2045)","ts":1767185106330}
+{"elt":"30d 5:33 24","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2045)","ts":1767185106330}
+{"elt":"30d 5:33 24","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2045)","ts":1767185106337}
+{"elt":"30d 5:33 24","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2045)","ts":1767185106341}
+{"elt":"30d 5:33 24","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=LOADED","dt":"(2025 1231 2045)","ts":1767185106342}
+{"elt":"30d 5h:35m 39s","tyn":10,"tys":"system","msg":"player_sync_timestamp source={\"command_param\":\"apply\"} oldts=1767185051207 newts=1767185238506","dt":"(2025 1231 2047)","ts":1767185241274}
+{"elt":"30d 5h:35m 39s","tyn":10,"tys":"system","msg":"player_refresh=auto, sync_from_command_button","dt":"(2025 1231 2047)","ts":1767185241284}
+{"elt":"30d 5h:35m 39s","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2047)","ts":1767185241285}
+{"elt":"30d 5h:35m 39s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2047)","ts":1767185241298}
+{"elt":"30d 5h:35m 39s","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2047)","ts":1767185241299}
+{"elt":"30d 5h:35m 40s","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2047)","ts":1767185242885}
+{"elt":"30d 5h:35m 40s","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2047)","ts":1767185242890}
+{"elt":"30d 5h:35m 40s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2047)","ts":1767185242906}
+{"elt":"30d 5h:35m 40s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2047)","ts":1767185242908}
+{"elt":"30d 5h:35m 40s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2047)","ts":1767185242966}
+{"elt":"30d 5h:35m 40s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 2047)","ts":1767185242973}
+{"elt":"30d 5h:35m 40s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 418 600 €, costs: 823 711 €","dt":"(2025 1231 2047)","ts":1767185242975}
+{"elt":"30d 5h:35m 40s","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2047)","ts":1767185242977}
+{"elt":"30d 5h:35m 40s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2047)","ts":1767185242979}
+{"elt":"30d 5h:35m 40s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2047)","ts":1767185242984}
+{"elt":"30d 5h:35m 40s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2047)","ts":1767185242987}
+{"elt":"30d 5h:35m 40s","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2047)","ts":1767185242987}
+{"elt":"30d 5h:35m 43s","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2047)","ts":1767185245102}
+{"elt":"30d 5h:35m 43s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2047)","ts":1767185245105}
+{"elt":"30d 5h:35m 43s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_2.xlsx","dt":"(2025 1231 2047)","ts":1767185245106}
+{"elt":"30d 5h:35m 43s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2047)","ts":1767185245149}
+{"elt":"30d 5h:35m 43s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 231 636 €","dt":"(2025 1231 2047)","ts":1767185245153}
+{"elt":"30d 5h:35m 43s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 383 300 €, costs: 240 352 €","dt":"(2025 1231 2047)","ts":1767185245155}
+{"elt":"30d 5h:35m 43s","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2047)","ts":1767185245157}
+{"elt":"30d 5h:35m 43s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2047)","ts":1767185245160}
+{"elt":"30d 5h:35m 43s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2047)","ts":1767185245167}
+{"elt":"30d 5h:35m 43s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2047)","ts":1767185245174}
+{"elt":"30d 5h:35m 43s","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2047)","ts":1767185245174}
+{"elt":"30d 5h:41m 28s","tyn":5,"tys":"refresh","msg":"player_refresh=manual, manual","dt":"(2025 1231 2053)","ts":1767185591030}
+{"elt":"30d 5h:41m 28s","tyn":8,"tys":"config","msg":"options_list=show_all_errors,allow_edit,apply_event,error_pass_through,use_short_text,allow_rewffw,step_month","dt":"(2025 1231 2053)","ts":1767185591031}
+{"elt":"30d 5h:41m 28s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2053)","ts":1767185591045}
+{"elt":"30d 5h:41m 28s","tyn":2,"tys":"lifecycle","msg":"month=0 life_cycle=NEW","dt":"(2025 1231 2053)","ts":1767185591045}
+{"elt":"30d 5h:41m 30s","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2053)","ts":1767185592907}
+{"elt":"30d 5h:41m 30s","tyn":8,"tys":"config","msg":"state file, loaded: ../k2-data/S15/T155/S15_T155_state_0.json","dt":"(2025 1231 2053)","ts":1767185592912}
+{"elt":"30d 5h:41m 30s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 1.xlsx\", serverfile: S15_T155_decision_1\", file found:","dt":"(2025 1231 2053)","ts":1767185592928}
+{"elt":"30d 5h:41m 30s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_1.xlsx","dt":"(2025 1231 2053)","ts":1767185592932}
+{"elt":"30d 5h:41m 30s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185592990}
+{"elt":"30d 5h:41m 30s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 813 479 €","dt":"(2025 1231 2053)","ts":1767185592995}
+{"elt":"30d 5h:41m 30s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 418 600 €, costs: 823 711 €","dt":"(2025 1231 2053)","ts":1767185592997}
+{"elt":"30d 5h:41m 30s","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185592998}
+{"elt":"30d 5h:41m 30s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2053)","ts":1767185593000}
+{"elt":"30d 5h:41m 30s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2053)","ts":1767185593005}
+{"elt":"30d 5h:41m 30s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2053)","ts":1767185593009}
+{"elt":"30d 5h:41m 30s","tyn":2,"tys":"lifecycle","msg":"month=1 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185593009}
+{"elt":"30d 5h:41m 46s","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2053)","ts":1767185608355}
+{"elt":"30d 5h:41m 46s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 2.xlsx\", serverfile: S15_T155_decision_2\", file found:","dt":"(2025 1231 2053)","ts":1767185608358}
+{"elt":"30d 5h:41m 46s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_2.xlsx","dt":"(2025 1231 2053)","ts":1767185608359}
+{"elt":"30d 5h:41m 46s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185608413}
+{"elt":"30d 5h:41m 46s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 231 636 €","dt":"(2025 1231 2053)","ts":1767185608416}
+{"elt":"30d 5h:41m 46s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 383 300 €, costs: 240 352 €","dt":"(2025 1231 2053)","ts":1767185608418}
+{"elt":"30d 5h:41m 46s","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185608419}
+{"elt":"30d 5h:41m 46s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2053)","ts":1767185608421}
+{"elt":"30d 5h:41m 46s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2053)","ts":1767185608427}
+{"elt":"30d 5h:41m 46s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2053)","ts":1767185608431}
+{"elt":"30d 5h:41m 46s","tyn":2,"tys":"lifecycle","msg":"month=2 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185608431}
+{"elt":"30d 5h:41m 53s","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2053)","ts":1767185615543}
+{"elt":"30d 5h:41m 53s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 3.xlsx\", serverfile: S15_T155_decision_3\", file found:","dt":"(2025 1231 2053)","ts":1767185615546}
+{"elt":"30d 5h:41m 53s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_3.xlsx","dt":"(2025 1231 2053)","ts":1767185615546}
+{"elt":"30d 5h:41m 53s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185615578}
+{"elt":"30d 5h:41m 53s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 265 631 €","dt":"(2025 1231 2053)","ts":1767185615583}
+{"elt":"30d 5h:41m 53s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 393 000 €, costs: 273 120 €","dt":"(2025 1231 2053)","ts":1767185615585}
+{"elt":"30d 5h:41m 53s","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185615589}
+{"elt":"30d 5h:41m 53s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2053)","ts":1767185615592}
+{"elt":"30d 5h:41m 53s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2053)","ts":1767185615598}
+{"elt":"30d 5h:41m 53s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2053)","ts":1767185615603}
+{"elt":"30d 5h:41m 53s","tyn":2,"tys":"lifecycle","msg":"month=3 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185615603}
+{"elt":"30d 5h:41m 55s","tyn":3,"tys":"command","msg":"http_command=ffwd_one_month","dt":"(2025 1231 2053)","ts":1767185617224}
+{"elt":"30d 5h:41m 55s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 4.xlsx\", serverfile: S15_T155_decision_4\", file found:","dt":"(2025 1231 2053)","ts":1767185617228}
+{"elt":"30d 5h:41m 55s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_4.xlsx","dt":"(2025 1231 2053)","ts":1767185617229}
+{"elt":"30d 5h:41m 55s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185617262}
+{"elt":"30d 5h:41m 55s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 259 078 €","dt":"(2025 1231 2053)","ts":1767185617265}
+{"elt":"30d 5h:41m 55s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 411 800 €, costs: 267 919 €","dt":"(2025 1231 2053)","ts":1767185617267}
+{"elt":"30d 5h:41m 55s","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185617272}
+{"elt":"30d 5h:41m 55s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2053)","ts":1767185617274}
+{"elt":"30d 5h:41m 55s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2053)","ts":1767185617280}
+{"elt":"30d 5h:41m 55s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2053)","ts":1767185617284}
+{"elt":"30d 5h:41m 55s","tyn":2,"tys":"lifecycle","msg":"month=4 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185617284}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":"http_command=ffwd_last_month","dt":"(2025 1231 2053)","ts":1767185622455}
+{"elt":"30d 5h:42m 0s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 5.xlsx\", serverfile: S15_T155_decision_5\", file found:","dt":"(2025 1231 2053)","ts":1767185622457}
+{"elt":"30d 5h:42m 0s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_5.xlsx","dt":"(2025 1231 2053)","ts":1767185622458}
+{"elt":"30d 5h:42m 0s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185622500}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 258 043 €","dt":"(2025 1231 2053)","ts":1767185622505}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 406 100 €, costs: 265 789 €","dt":"(2025 1231 2053)","ts":1767185622508}
+{"elt":"30d 5h:42m 0s","tyn":2,"tys":"lifecycle","msg":"month=5 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185622514}
+{"elt":"30d 5h:42m 0s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 6.xlsx\", serverfile: S15_T155_decision_6\", file found:","dt":"(2025 1231 2053)","ts":1767185622518}
+{"elt":"30d 5h:42m 0s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_6.xlsx","dt":"(2025 1231 2053)","ts":1767185622519}
+{"elt":"30d 5h:42m 0s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185622542}
+{"elt":"30d 5h:42m 0s","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1100) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 7 (qty consumed) remain -2 (qty avail)","dt":"(2025 1231 2053)","ts":1767185622543}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 246 278 €","dt":"(2025 1231 2053)","ts":1767185622544}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 269 400 €, costs: 254 457 €","dt":"(2025 1231 2053)","ts":1767185622545}
+{"elt":"30d 5h:42m 0s","tyn":2,"tys":"lifecycle","msg":"month=6 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185622547}
+{"elt":"30d 5h:42m 0s","tyn":8,"tys":"config","msg":"decision file, localfile: \"decision_nouvelle 7.xlsx\", serverfile: S15_T155_decision_7\", file found:","dt":"(2025 1231 2053)","ts":1767185622549}
+{"elt":"30d 5h:42m 0s","tyn":12,"tys":"decision","msg":"load serverfile: ../k2-data/S15/T155/S15_T155_decision_7.xlsx","dt":"(2025 1231 2053)","ts":1767185622550}
+{"elt":"30d 5h:42m 0s","tyn":7,"tys":"error","msg":"   > error msg to list: * Decision File Factory (err442 Production in New-Zeland) warning label mismatch","dt":"(2025 1231 2053)","ts":1767185622572}
+{"elt":"30d 5h:42m 0s","tyn":7,"tys":"error","msg":"   > error msg to list: *** Production (err321) (order 1119) at (arnhem) process (nectar_production) not enough stock for production: item concentrate_bin need 3 (qty consumed) remain -3 (qty avail)","dt":"(2025 1231 2053)","ts":1767185622575}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":" * process pass1 month: profit: -, income: -, costs: 168 191 €","dt":"(2025 1231 2053)","ts":1767185622575}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 345 800 €, costs: 177 964 €","dt":"(2025 1231 2053)","ts":1767185622577}
+{"elt":"30d 5h:42m 0s","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1231 2053)","ts":1767185622584}
+{"elt":"30d 5h:42m 0s","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1231 2053)","ts":1767185622587}
+{"elt":"30d 5h:42m 0s","tyn":9,"tys":"view","msg":"http_results subtotal history_monthly _ {}","dt":"(2025 1231 2053)","ts":1767185622592}
+{"elt":"30d 5h:42m 0s","tyn":10,"tys":"system","msg":"http_player /update_month/update_from_broadcast","dt":"(2025 1231 2053)","ts":1767185622599}
+{"elt":"30d 5h:42m 0s","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=END","dt":"(2025 1231 2053)","ts":1767185622599}

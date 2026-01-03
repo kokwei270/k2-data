@@ -344,3 +344,5 @@
 {"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":" * process pass2 month: profit: -, income: 481 200 €, costs: 306 678 €","dt":"(2025 1229 0036)","ts":1766939797565}
 {"elt":"27d 9:24 55","tyn":2,"tys":"lifecycle","msg":"month=7 life_cycle=CONFIRMED","dt":"(2025 1229 0036)","ts":1766939797567}
 {"elt":"27d 9:24 55","tyn":3,"tys":"command","msg":">>> ffw ended","dt":"(2025 1229 0036)","ts":1766939797569}
+{"elt":"30d 3:22 13","tyn":6,"tys":"admin","msg":"http_admin, /refresh_auto","dt":"(2025 1231 1833)","ts":1767177235758}
+{"elt":"30d 3:22 13","tyn":8,"tys":"config","msg":"admin_refresh options_list=show_all_errors,allow_edit,apply_event,error_pass_through,allow_rewffw,step_month","dt":"(2025 1231 1833)","ts":1767177235763}

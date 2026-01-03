@@ -527,3 +527,143 @@ TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or
 ***this output is to stderr stream
 ***this output is to stderr stream
 ***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+TypeError: Cannot read properties of undefined (reading 'status')
+    at View.decision_time (/home/kokwei/Angular/mk3-server/src/session.ts:1203:37)
+    at Session.http_session_main (/home/kokwei/Angular/mk3-server/src/session.ts:350:48)
+    at Main.http_session_sys (/home/kokwei/Angular/mk3-server/src/main.ts:245:23)
+    at /home/kokwei/Angular/mk3-server/src/index.ts:97:37
+    at Layer.handle [as handle_request] (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:284:15
+    at param (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:280:10)
+    at cors (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:188:7)
+    at /home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:214:15)
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream

@@ -1,0 +1,132 @@
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Session'
+    |     property 'player_list' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Player'
+    --- property '_parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at /home/kokwei/Angular/mk3-server/src/index.ts:97:20
+    at Layer.handle [as handle_request] (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:284:15
+    at param (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:280:10)
+    at cors (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:188:7)
+    at /home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:214:15)
+    at /home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:199:9)
+TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Session'
+    |     property 'player_list' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Player'
+    --- property '_parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at /home/kokwei/Angular/mk3-server/src/index.ts:97:20
+    at Layer.handle [as handle_request] (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:284:15
+    at param (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:365:14)
+    at param (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:421:3)
+    at next (/home/kokwei/Angular/mk3-server/node_modules/express/lib/router/index.js:280:10)
+    at cors (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:188:7)
+    at /home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:224:17
+    at originCallback (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:214:15)
+    at /home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/kokwei/Angular/mk3-server/node_modules/cors/lib/index.js:199:9)
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream
+***this output is to stderr stream

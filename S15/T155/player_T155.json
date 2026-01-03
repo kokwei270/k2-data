@@ -1,33 +1,27 @@
 {
   "status": {
-    "month_state": "END",
-    "month_state_str": "END",
-    "curr_month": 7,
-    "curr_month_str": "Apr 2025",
+    "month_state": "START",
+    "month_state_str": "START",
+    "curr_month": 2,
+    "curr_month_str": "Oct 2024",
     "month_str_list": [
       "Aug 2024",
       "Sep 2024",
-      "Oct 2024",
-      "Nov 2024",
-      "Dec 2024",
-      "Jan 2025",
-      "Feb 2025",
-      "Mar 2025",
-      "Apr 2025"
+      "Oct 2024"
     ],
-    "begin_end": "end",
+    "begin_end": "beginning",
     "decision_loaded": false,
     "count_load": 0,
     "count_edit": 0,
     "count_cancel": 0,
-    "count_login": 1,
-    "dump_month": 7,
+    "count_login": 0,
+    "dump_month": 1,
     "max_retry": 3,
     "last_decision": 7,
     "start_month": "Sep 2024"
   },
   "decision_files": [
-    "decision_errors (PF).xlsx",
+    "decision_nouvelle 1.xlsx",
     "decision_nouvelle 2.xlsx",
     "decision_nouvelle 3.xlsx",
     "decision_nouvelle 4.xlsx",
