@@ -4,11 +4,11 @@
    "name": "Vesoul, with Belgium and Finland, 18-21 Mar 2025",
 
    "setup_files": {
-      "state_file": "starting situation (2025)",
-      "transport_file": "params transport (2025)",
-      "demand_file": "demand (2025)",
-      "distances_file": "distances (kemijarvi)",
-      "factory_file": "params factory (standard)"
+      "state_file": "_starting situation (2025)",
+      "transport_file": "_params transport (2025)",
+      "factory_file": "_params factory (standard)",
+      "demand_file": "_demand (2025)",
+      "distances_file": "_distances (kemijarvi)"
    },
 
    "last_decision": 7,

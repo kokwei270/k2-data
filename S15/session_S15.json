@@ -8,12 +8,11 @@
   "start_month": "Sep 2024",
   "remarks": "next one is for formal demo",
   "setup_files": {
-    "state_file": "S15_initial_state_thursday_2024",
-    "transport_file": "S15_transport_kemijarvi",
-    "demand_file": "S15_demand",
-    "distances_file": "S15_distances",
-    "factory_file": "S14_factory",
-    "members_file": "members_s15"
+    "state_file": "_S15_initial_state_thursday_2024",
+    "transport_file": "_S15_transport_kemijarvi",
+    "demand_file": "_S15_demand",
+    "factory_file": "_S14_factory",
+    "members_file": "_members_s15"
   },
   "warehouse_list": [
     "arnhem factory",
