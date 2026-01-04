@@ -18,12 +18,6 @@
       
    "remarks": "Joint groups, Belgium, Finland, France",
 
-   "warehouse_list": [ "arnhem factory", "vesoul factory",
-      "berlin", "bucharest", "budapest", "kemijarvi", "madrid",
-      "milan", "paris", "rauma", "rome", "warsaw"
-   ],
-   "factory_list": [ "arnhem", "vesoul", "auckland" ],
-   "lorry_list": [ "lorry 1", "lorry 2", "lorry 3" ],
    "player_list":[
       { "id":175, "player_ref":"Team 1" },
       { "id":176, "player_ref":"Team 2" },

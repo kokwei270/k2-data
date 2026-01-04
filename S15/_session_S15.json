@@ -14,29 +14,49 @@
     "factory_file": "_S14_factory",
     "members_file": "_members_s15"
   },
-  "warehouse_list": [
-    "arnhem factory",
-    "vesoul factory",
-    "berlin",
-    "bucharest",
-    "budapest",
-    "kemijarvi",
-    "madrid",
-    "milan",
-    "paris",
-    "rauma",
-    "rome",
-    "warsaw"
-  ],
-  "factory_list": [
-    "arnhem",
-    "vesoul",
-    "auckland"
-  ],
-  "lorry_list": [
-    "lorry 1",
-    "lorry 2",
-    "lorry 3"
+  "control_list": [
+    {
+      "month": 1,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 4
+    },
+    {
+      "month": 2,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
+    },
+    {
+      "month": 3,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
+    },
+    {
+      "month": 4,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
+    },
+    {
+      "month": 5,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
+    },
+    {
+      "month": 6,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
+    },
+    {
+      "month": 7,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
+    }
   ],
   "player_list": [
     {
@@ -118,58 +138,6 @@
     {
       "id": 174,
       "player_ref": "Team 20"
-    }
-  ],
-  "control_list": [
-    {
-      "month": 1,
-      "event": {
-        "module": 6,
-        "key": 10,
-        "text": "FactorySales_No_Sales",
-        "params": {
-          "factory": "auckland"
-        },
-        "story": "no customer come to factory sales :("
-      },
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 2,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 3,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 4,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 5,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 6,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 7,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
     }
   ],
   "standby_list": [],

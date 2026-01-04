@@ -431,5 +431,774 @@
       "factory_storage": 0,
       "warehouse_storage": 0
     }
+  },
+  {
+    "readme": {
+      "month": 1,
+      "player": {
+        "player_id": 155,
+        "player_ref": "Team 1",
+        "player_prefix": "T155",
+        "session_id": 15,
+        "session_ref": "Vesoul 2024 @Thursday",
+        "session_prefix": "S15"
+      }
+    },
+    "month": {
+      "month": 1,
+      "month_str": "Sep 2024"
+    },
+    "cumulmonth": {
+      "month": 1,
+      "profit": -405111,
+      "income": 418600,
+      "costs": 823711,
+      "co2": 498027
+    },
+    "thismonth": {
+      "month": 1,
+      "profit": -405111,
+      "income": 418600,
+      "costs": 823711,
+      "co2": 498027
+    },
+    "decision": {
+      "auckland": {
+        "month": 1,
+        "kiwi_pressing": 15,
+        "hiring": 0,
+        "layoff": 0,
+        "puree_sale": 0,
+        "concentrate_sale": 0
+      },
+      "arnhem": {
+        "month": 1,
+        "nectar_packaging": 7,
+        "nectar_production": 7,
+        "hiring": 0,
+        "layoff": 0,
+        "pack_purchase": 7,
+        "puree_purchase": 34,
+        "concentrate_purchase": 7,
+        "puree_shipping": 50,
+        "concentrate_shipping": 5
+      },
+      "vesoul": {
+        "month": 1,
+        "cordial_packaging": 6,
+        "cordial_production": 6,
+        "hiring": 0,
+        "layoff": 0,
+        "bottle_purchase": 6,
+        "sugar_purchase": 6,
+        "concentrate_purchase": 24,
+        "concentrate_shipping": 10
+      },
+      "transport": [
+        {
+          "month": 1,
+          "lorry": "lorry 1",
+          "route": [
+            {
+              "location": "arnhem factory",
+              "load": [
+                [
+                  "load",
+                  "nectar",
+                  66
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "paris",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  31
+                ]
+              ]
+            },
+            {
+              "location": "milan",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  18
+                ]
+              ]
+            },
+            {
+              "location": "rome",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  17
+                ]
+              ]
+            },
+            {
+              "location": "arnhem factory",
+              "load": [
+                [
+                  "load",
+                  "nectar",
+                  66
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "berlin",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  15
+                ]
+              ]
+            },
+            {
+              "location": "warsaw",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  19
+                ]
+              ]
+            },
+            {
+              "location": "budapest",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  21
+                ]
+              ]
+            },
+            {
+              "location": "bucharest",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  11
+                ]
+              ]
+            },
+            {
+              "location": "arnhem factory",
+              "load": [
+                [
+                  "load",
+                  "nectar",
+                  34
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "rauma",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  21
+                ]
+              ]
+            },
+            {
+              "location": "kemijarvi",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  13
+                ]
+              ]
+            },
+            {
+              "location": "arnhem factory",
+              "load": [],
+              "unload": []
+            }
+          ]
+        },
+        {
+          "month": 1,
+          "lorry": "lorry 2",
+          "route": [
+            {
+              "location": "vesoul factory",
+              "load": [],
+              "unload": []
+            },
+            {
+              "location": "vesoul factory",
+              "load": [
+                [
+                  "load",
+                  "cordial",
+                  29
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "paris",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  16
+                ]
+              ]
+            },
+            {
+              "location": "madrid",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  13
+                ]
+              ]
+            },
+            {
+              "location": "vesoul factory",
+              "load": [
+                [
+                  "load",
+                  "cordial",
+                  34
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "milan",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  18
+                ]
+              ]
+            },
+            {
+              "location": "rome",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  16
+                ]
+              ]
+            },
+            {
+              "location": "vesoul factory",
+              "load": [
+                [
+                  "load",
+                  "cordial",
+                  50
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "berlin",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  13
+                ]
+              ]
+            },
+            {
+              "location": "warsaw",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  14
+                ]
+              ]
+            },
+            {
+              "location": "rauma",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  12
+                ]
+              ]
+            },
+            {
+              "location": "kemijarvi",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  11
+                ]
+              ]
+            },
+            {
+              "location": "vesoul factory",
+              "load": [],
+              "unload": []
+            }
+          ]
+        },
+        {
+          "month": 1,
+          "lorry": "lorry 3",
+          "route": [
+            {
+              "location": "paris",
+              "load": [],
+              "unload": []
+            },
+            {
+              "location": "paris",
+              "load": [
+                [
+                  "load",
+                  "nectar",
+                  21
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "madrid",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "nectar",
+                  21
+                ]
+              ]
+            },
+            {
+              "location": "vesoul factory",
+              "load": [
+                [
+                  "load",
+                  "cordial",
+                  24
+                ]
+              ],
+              "unload": []
+            },
+            {
+              "location": "budapest",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  13
+                ]
+              ]
+            },
+            {
+              "location": "bucharest",
+              "load": [],
+              "unload": [
+                [
+                  "unload",
+                  "cordial",
+                  11
+                ]
+              ]
+            },
+            {
+              "location": "paris",
+              "load": [],
+              "unload": []
+            }
+          ]
+        }
+      ]
+    },
+    "warehouse": [
+      {
+        "month": 1,
+        "location": "arnhem factory",
+        "nectar": 344,
+        "cordial": 0,
+        "nectar_sales": 0,
+        "cordial_sales": 0,
+        "nectar_storage": 3112,
+        "cordial_storage": 0,
+        "nectar_demand": 0,
+        "cordial_demand": 0,
+        "nectart_pallet_sold": 0,
+        "cordial_pallet_sold": 0
+      },
+      {
+        "month": 1,
+        "location": "vesoul factory",
+        "nectar": 0,
+        "cordial": 183,
+        "nectar_sales": 0,
+        "cordial_sales": 0,
+        "nectar_storage": 0,
+        "cordial_storage": 2825,
+        "nectar_demand": 0,
+        "cordial_demand": 0,
+        "nectart_pallet_sold": 0,
+        "cordial_pallet_sold": 0
+      },
+      {
+        "month": 1,
+        "location": "paris",
+        "nectar": 0,
+        "cordial": 11,
+        "nectar_sales": 20000,
+        "cordial_sales": 24000,
+        "nectar_storage": 120,
+        "cordial_storage": 298,
+        "nectar_demand": 20,
+        "cordial_demand": 15,
+        "nectart_pallet_sold": 20,
+        "cordial_pallet_sold": 15
+      },
+      {
+        "month": 1,
+        "location": "rauma",
+        "nectar": 11,
+        "cordial": 8,
+        "nectar_sales": 14000,
+        "cordial_sales": 18200,
+        "nectar_storage": 208,
+        "cordial_storage": 253,
+        "nectar_demand": 20,
+        "cordial_demand": 14,
+        "nectart_pallet_sold": 20,
+        "cordial_pallet_sold": 14
+      },
+      {
+        "month": 1,
+        "location": "madrid",
+        "nectar": 7,
+        "cordial": 9,
+        "nectar_sales": 21600,
+        "cordial_sales": 21000,
+        "nectar_storage": 192,
+        "cordial_storage": 266,
+        "nectar_demand": 24,
+        "cordial_demand": 14,
+        "nectart_pallet_sold": 24,
+        "cordial_pallet_sold": 14
+      },
+      {
+        "month": 1,
+        "location": "milan",
+        "nectar": 6,
+        "cordial": 13,
+        "nectar_sales": 19800,
+        "cordial_sales": 22500,
+        "nectar_storage": 176,
+        "cordial_storage": 323,
+        "nectar_demand": 22,
+        "cordial_demand": 15,
+        "nectart_pallet_sold": 22,
+        "cordial_pallet_sold": 15
+      },
+      {
+        "month": 1,
+        "location": "rome",
+        "nectar": 0,
+        "cordial": 7,
+        "nectar_sales": 27000,
+        "cordial_sales": 30400,
+        "nectar_storage": 148,
+        "cordial_storage": 272,
+        "nectar_demand": 29,
+        "cordial_demand": 19,
+        "nectart_pallet_sold": 27,
+        "cordial_pallet_sold": 19
+      },
+      {
+        "month": 1,
+        "location": "bucharest",
+        "nectar": 5,
+        "cordial": 7,
+        "nectar_sales": 9600,
+        "cordial_sales": 16800,
+        "nectar_storage": 144,
+        "cordial_storage": 241,
+        "nectar_demand": 16,
+        "cordial_demand": 14,
+        "nectart_pallet_sold": 16,
+        "cordial_pallet_sold": 14
+      },
+      {
+        "month": 1,
+        "location": "budapest",
+        "nectar": 12,
+        "cordial": 3,
+        "nectar_sales": 20900,
+        "cordial_sales": 26000,
+        "nectar_storage": 212,
+        "cordial_storage": 228,
+        "nectar_demand": 19,
+        "cordial_demand": 20,
+        "nectart_pallet_sold": 19,
+        "cordial_pallet_sold": 20
+      },
+      {
+        "month": 1,
+        "location": "kemijarvi",
+        "nectar": 6,
+        "cordial": 4,
+        "nectar_sales": 11900,
+        "cordial_sales": 22100,
+        "nectar_storage": 156,
+        "cordial_storage": 222,
+        "nectar_demand": 17,
+        "cordial_demand": 17,
+        "nectart_pallet_sold": 17,
+        "cordial_pallet_sold": 17
+      },
+      {
+        "month": 1,
+        "location": "warsaw",
+        "nectar": 10,
+        "cordial": 7,
+        "nectar_sales": 15200,
+        "cordial_sales": 23800,
+        "nectar_storage": 196,
+        "cordial_storage": 260,
+        "nectar_demand": 19,
+        "cordial_demand": 17,
+        "nectart_pallet_sold": 19,
+        "cordial_pallet_sold": 17
+      },
+      {
+        "month": 1,
+        "location": "berlin",
+        "nectar": 0,
+        "cordial": 5,
+        "nectar_sales": 25000,
+        "cordial_sales": 28800,
+        "nectar_storage": 140,
+        "cordial_storage": 241,
+        "nectar_demand": 25,
+        "cordial_demand": 18,
+        "nectart_pallet_sold": 25,
+        "cordial_pallet_sold": 18
+      }
+    ],
+    "transport": [
+      {
+        "month": 1,
+        "lorry": "lorry 1",
+        "nectar": 0,
+        "cordial": 0,
+        "volume": 0,
+        "weight": 0,
+        "distance": 13561,
+        "time_not_used": 264,
+        "transport_cost": 33902.5,
+        "co2": 12476
+      },
+      {
+        "month": 1,
+        "lorry": "lorry 2",
+        "nectar": 0,
+        "cordial": 0,
+        "volume": 0,
+        "weight": 0,
+        "distance": 12084,
+        "time_not_used": 41.8,
+        "transport_cost": 24168,
+        "co2": 11117
+      },
+      {
+        "month": 1,
+        "lorry": "lorry 3",
+        "nectar": 0,
+        "cordial": 0,
+        "volume": 0,
+        "weight": 0,
+        "distance": 7105,
+        "time_not_used": 45.8,
+        "transport_cost": 10657.5,
+        "co2": 5684
+      }
+    ],
+    "factory_stock": [
+      {
+        "month": 1,
+        "location": "arnhem",
+        "nectar_pallet": 0,
+        "nectar_pallet_storage": 0,
+        "nectar_vat": 10,
+        "nectar_vat_storage": 2530,
+        "puree_bin": 99,
+        "puree_bin_storage": 2405,
+        "concentrate_bin": 20,
+        "concentrate_bin_storage": 704,
+        "tetrapak_batch": 10,
+        "tetrapak_batch_storage": 153
+      },
+      {
+        "month": 1,
+        "location": "vesoul",
+        "cordial_pallet": 0,
+        "cordial_pallet_storage": 0,
+        "cordial_vat": 10,
+        "cordial_vat_storage": 2480,
+        "concentrate_bin": 80,
+        "concentrate_bin_storage": 2901,
+        "sugar_ton": 10,
+        "sugar_ton_storage": 64,
+        "bottle_batch": 10,
+        "bottle_batch_storage": 480
+      },
+      {
+        "month": 1,
+        "location": "auckland",
+        "puree_bin": 70,
+        "puree_bin_storage": 2533,
+        "concentrate_bin": 15,
+        "concentrate_bin_storage": 900,
+        "kiwi_lot": -15,
+        "kiwi_lot_storage": 0
+      }
+    ],
+    "purchase": [
+      {
+        "month": 1,
+        "location": "",
+        "puree_cost": 204000,
+        "concentrate_cost": 279000,
+        "pack_cost": 7000,
+        "bottle_cost": 18000,
+        "sugar_cost": 2400,
+        "puree_co2": 105400,
+        "concentrate_co2": 136400,
+        "pack_co2": 6300,
+        "bottle_co2": 24000,
+        "sugar_co2": 1800
+      }
+    ],
+    "shipping": [
+      {
+        "month": 1,
+        "location": "",
+        "shipping_cost": 0,
+        "shipping_co2": 12350
+      }
+    ],
+    "production": [
+      {
+        "month": 1,
+        "location": "arnhem",
+        "production_cost": 2800,
+        "production_co2": 17500
+      },
+      {
+        "month": 1,
+        "location": "vesoul",
+        "production_cost": 2400,
+        "production_co2": 15000
+      },
+      {
+        "month": 1,
+        "location": "auckland",
+        "production_cost": 150000,
+        "production_co2": 150000
+      }
+    ],
+    "staff": [
+      {
+        "month": 1,
+        "location": "arnhem",
+        "staff": 6,
+        "time_not_used": 60,
+        "hiring_cost": 0,
+        "layoff_cost": 0,
+        "salary_cost": 18000
+      },
+      {
+        "month": 1,
+        "location": "vesoul",
+        "staff": 6,
+        "time_not_used": 180,
+        "hiring_cost": 0,
+        "layoff_cost": 0,
+        "salary_cost": 18000
+      },
+      {
+        "month": 1,
+        "location": "auckland",
+        "staff": 5,
+        "time_not_used": 0,
+        "hiring_cost": 0,
+        "layoff_cost": 0,
+        "salary_cost": 15000
+      }
+    ],
+    "factory_sales": [
+      {
+        "month": 1,
+        "location": "arnhem",
+        "puree_sales": 0,
+        "concentrate_sales": 0
+      },
+      {
+        "month": 1,
+        "location": "vesoul",
+        "puree_sales": 0,
+        "concentrate_sales": 0
+      },
+      {
+        "month": 1,
+        "location": "auckland",
+        "puree_sales": 0,
+        "concentrate_sales": 0
+      }
+    ],
+    "subtotal_costs": {
+      "month": 1,
+      "lorry_transport": 68728,
+      "production": 155200,
+      "purchase": 510400,
+      "shipping": 13000,
+      "salary": 51000,
+      "staff_adjust": 0,
+      "factory_storage": 15151,
+      "warehouse_storage": 10232
+    }
   }
 ]

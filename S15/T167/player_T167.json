@@ -23,9 +23,13 @@
     "count_cancel": 0,
     "count_login": 0,
     "dump_month": 0,
-    "max_retry": 3,
+    "max_retry": 0,
     "last_decision": 7,
     "start_month": "Sep 2024"
   },
-  "options_list": []
+  "options_list": [
+    "apply_event",
+    "allow_rewffw",
+    "error_pass_through"
+  ]
 }

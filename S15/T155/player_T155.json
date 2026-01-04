@@ -2,11 +2,12 @@
   "status": {
     "month_state": "START",
     "month_state_str": "START",
-    "curr_month": 1,
-    "curr_month_str": "Sep 2024",
+    "curr_month": 2,
+    "curr_month_str": "Oct 2024",
     "month_str_list": [
       "Aug 2024",
-      "Sep 2024"
+      "Sep 2024",
+      "Oct 2024"
     ],
     "begin_end": "beginning",
     "decision_loaded": false,
@@ -14,7 +15,7 @@
     "count_edit": 0,
     "count_cancel": 0,
     "count_login": 0,
-    "dump_month": 0,
+    "dump_month": 1,
     "max_retry": 3,
     "last_decision": 7,
     "start_month": "Sep 2024"
@@ -29,6 +30,9 @@
     "decision_nouvelle 7.xlsx"
   ],
   "options_list": [
-    "use_short_text"
+    "use_short_text",
+    "apply_event",
+    "allow_rewffw",
+    "error_pass_through"
   ]
 }
