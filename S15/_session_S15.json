@@ -120,105 +120,56 @@
       "player_ref": "Team 20"
     }
   ],
-  "events_list": [
+  "control_list": [
     {
-      "month": 8,
-      "event": "Transport_Cannot_Use_Lorry",
-      "params": {
-        "lorry": "lorry 1"
+      "month": 1,
+      "event": {
+        "module": 6,
+        "key": 10,
+        "text": "FactorySales_No_Sales",
+        "params": {
+          "factory": "auckland"
+        },
+        "story": "no customer come to factory sales :("
       },
-      "explain": "lorry had a bad accident and need extensive repairs"
+      "is_blocked": false,
+      "max_retry": 3
     },
     {
-      "month": 8,
-      "event": "Transport_Cannot_Reach_Location",
-      "params": {
-        "warehouse": "kemijarvi"
-      },
-      "explain": "freak snow storm blocked all road accesses to the town"
+      "month": 2,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
     },
     {
-      "month": 8,
-      "event": "Shipping_Cannot_Leave_Port",
-      "explain": "freak hurricane shut down the port of Auckland"
+      "month": 3,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
     },
     {
-      "month": 8,
-      "event": "Shipping_Cannot_Arrive_Port",
-      "explain": "freak hurricane shut down the port of Rotterdam"
+      "month": 4,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
     },
     {
-      "month": 8,
-      "event": "Ship_Cargo_Lost",
-      "params": {
-        "factory": "vesoul",
-        "item": "concentrate_bin"
-      },
-      "explain": "an accident happened en route, your cargo was lost at sea"
+      "month": 5,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
     },
     {
-      "month": 8,
-      "event": "Production_Cannot_Run_Process",
-      "params": {
-        "factory": "vesoul",
-        "process": "cordial_packaging"
-      },
-      "explain": "an accident happened at the production line"
+      "month": 6,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
     },
     {
-      "month": 8,
-      "event": "Purchase_No_Stock",
-      "params": {
-        "factory": "vesoul",
-        "item": "concentrate_bin"
-      },
-      "explain": "supplier had a logistic breakdown"
-    },
-    {
-      "month": 8,
-      "event": "Staff_Cannot_Layoff",
-      "params": {
-        "factory": "vesoul"
-      },
-      "explain": "union raised objection"
-    },
-    {
-      "month": 8,
-      "event": "Warehouse_Stock_Destroyed",
-      "params": {
-        "warehouse": "paris"
-      },
-      "explain": "warehouse caught fire during riot in town"
-    },
-    {
-      "month": 8,
-      "event": "Warehouse_No_Sales",
-      "params": {
-        "warehouse": "madrid"
-      },
-      "explain": "street protest turned violent, customers cannot reach the warehouse"
-    },
-    {
-      "month": 8,
-      "event": "FactoryStock_Destroyed",
-      "params": {
-        "factory": "arnhem",
-        "item": "concentrate_bin"
-      },
-      "explain": "the sky is falling"
-    },
-    {
-      "month": 8,
-      "event": "FactorySales_No_Sales",
-      "params": {
-        "factory": "auckland"
-      },
-      "explain": "no customer come to factory sales :("
-    },
-    {
-      "month": 8,
-      "event": "Null",
-      "explain": "the sky is falling down"
+      "month": 7,
+      "event": null,
+      "is_blocked": false,
+      "max_retry": 3
     }
   ],
   "standby_list": [],
