@@ -14,50 +14,7 @@
     "factory_file": "_S14_factory",
     "members_file": "_members_s15"
   },
-  "control_list": [
-    {
-      "month": 1,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 4
-    },
-    {
-      "month": 2,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 3,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 4,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 5,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 6,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    },
-    {
-      "month": 7,
-      "event": null,
-      "is_blocked": false,
-      "max_retry": 3
-    }
-  ],
+  "control_list": [],
   "player_list": [
     {
       "id": 155,
