@@ -1,0 +1,26 @@
+{
+  "decision_files": [
+    "decision_nouvelle 1.xlsx"
+  ],
+  "options_list": [],
+  "status": {
+    "month_state": "START",
+    "month_state_str": "START",
+    "curr_month": 1,
+    "curr_month_str": "Mar 2026",
+    "month_str_list": [
+      "Feb 2026",
+      "Mar 2026"
+    ],
+    "begin_end": "beginning",
+    "decision_loaded": false,
+    "count_load": 0,
+    "count_edit": 0,
+    "count_cancel": 0,
+    "count_login": 1,
+    "dump_month": 0,
+    "max_retry": 3,
+    "last_decision": 7,
+    "start_month": "Mar 2026"
+  }
+}
