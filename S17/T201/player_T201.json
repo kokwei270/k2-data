@@ -1,2 +1,25 @@
-{}
-
+{
+  "decision_files": [],
+  "options_list": [
+    "error_pass_through",
+    "allow_rewffw"
+  ],
+  "status": {
+    "month_state": "NEW",
+    "curr_month": 0,
+    "curr_month_str": "Feb 2026",
+    "month_str_list": [
+      "Feb 2026"
+    ],
+    "begin_end": "",
+    "decision_loaded": false,
+    "count_load": 0,
+    "count_edit": 0,
+    "count_cancel": 0,
+    "count_login": 0,
+    "dump_month": 0,
+    "max_retry": 0,
+    "last_decision": 7,
+    "start_month": "Mar 2026"
+  }
+}
