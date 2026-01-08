@@ -1,0 +1,61 @@
+{
+  "decision_files": [
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    }
+  ],
+  "options_list": [
+    "use_short_text"
+  ],
+  "status": {
+    "month_state": "START",
+    "curr_month": 1,
+    "curr_month_str": "Mar 2026",
+    "month_str_list": [
+      "Feb 2026",
+      "Mar 2026"
+    ],
+    "begin_end": "beginning",
+    "decision_loaded": false,
+    "count_load": 0,
+    "count_edit": 0,
+    "count_cancel": 0,
+    "count_login": 1,
+    "dump_month": 0,
+    "max_retry": 3,
+    "last_decision": 7,
+    "start_month": "Mar 2026"
+  }
+}
