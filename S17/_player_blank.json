@@ -1,2 +1,39 @@
-{}
-
+{
+  "decision_files": [
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    },
+    {
+      "filename": "",
+      "ts": 0,
+      "ts_elapse": ""
+    }
+  ]
+}
