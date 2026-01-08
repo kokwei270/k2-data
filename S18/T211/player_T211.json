@@ -1,14 +1,14 @@
 {
   "decision_files": [
     {
-      "filename": "",
-      "ts": 0,
-      "ts_elapse": ""
+      "filename": "Kiwi game depart decision 1.xlsx",
+      "ts": 1767880499731,
+      "ts_elapse": "2h:57m 47s"
     },
     {
-      "filename": "",
-      "ts": 0,
-      "ts_elapse": ""
+      "filename": "Kiwi game depart decision 2.xlsx",
+      "ts": 1767888696557,
+      "ts_elapse": "5h:14m 24s"
     },
     {
       "filename": "",
@@ -37,24 +37,25 @@
     }
   ],
   "options_list": [
-    "error_pass_through",
     "allow_rewffw"
   ],
   "status": {
-    "month_state": "NEW",
-    "curr_month": 0,
-    "curr_month_str": "Feb 2026",
+    "month_state": "APPLIED",
+    "curr_month": 2,
+    "curr_month_str": "Apr 2026",
     "month_str_list": [
-      "Feb 2026"
+      "Feb 2026",
+      "Mar 2026",
+      "Apr 2026"
     ],
-    "begin_end": "",
-    "decision_loaded": false,
-    "count_load": 0,
+    "begin_end": "end",
+    "decision_loaded": true,
+    "count_load": 2,
     "count_edit": 0,
-    "count_cancel": 0,
-    "count_login": 0,
-    "dump_month": 0,
-    "max_retry": 0,
+    "count_cancel": 1,
+    "count_login": 2,
+    "dump_month": 1,
+    "max_retry": 3,
     "last_decision": 7,
     "start_month": "Mar 2026"
   }

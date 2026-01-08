@@ -37,7 +37,6 @@
     }
   ],
   "options_list": [
-    "error_pass_through",
     "allow_rewffw"
   ],
   "status": {

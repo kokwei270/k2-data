@@ -38,7 +38,6 @@
   ],
   "options_list": [
     "use_short_text",
-    "error_pass_through",
     "allow_rewffw"
   ],
   "status": {
