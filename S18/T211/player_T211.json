@@ -40,7 +40,7 @@
     "allow_rewffw"
   ],
   "status": {
-    "month_state": "APPLIED",
+    "month_state": "LOADED",
     "curr_month": 2,
     "curr_month_str": "Apr 2026",
     "month_str_list": [
@@ -50,10 +50,10 @@
     ],
     "begin_end": "end",
     "decision_loaded": true,
-    "count_load": 2,
+    "count_upload": 0,
     "count_edit": 0,
     "count_cancel": 1,
-    "count_login": 2,
+    "count_login": 1,
     "dump_month": 1,
     "max_retry": 3,
     "last_decision": 7,

@@ -1,0 +1,78 @@
+{"kiwi":"v2","filetype":"session initial state",
+   "state":{
+      "warehouse":[
+         {"num":1, "location":"Arnhem Factory", "stock": [{"nectar": 300}, {"cordial": 0}] },
+         {"num":2, "location":"Vesoul Factory", "stock": [{"nectar": 0}, {"cordial" :200}] },
+
+         {"num":3, "location":"Paris", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":4, "location":"Rauma", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":5, "location":"Madrid", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":6, "location":"Milan", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":7, "location":"Rome", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":8, "location":"Bucharest", "stock":[{"nectar": 10}, {"cordial": 10}] },
+         {"num":9, "location":"Budapest", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":10, "location":"Kemijarvi", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":11, "location":"Warsaw", "stock": [{"nectar": 10}, {"cordial": 10}] },
+         {"num":12, "location":"Berlin", "stock": [{"nectar": 10}, {"cordial": 10}] }
+
+      ],
+      "lorry":[
+         {"name":"Lorry 1","location":"Arnhem Factory"},
+         {"name":"Lorry 2","location":"Vesoul Factory"},
+         {"name":"Lorry 3","location":"Paris"}
+      ], 
+      "factory":[
+         {"location":"Arnhem",
+            "purchase_in_progress":[],
+            "shipping_in_progress":[ 
+               {"item":"puree_bin", "qty":50, "delivery":1 },
+               {"item":"concentrate_bin", "qty":10, "delivery":1}
+            ],
+            "stock":[ 
+               {"item":"nectar_pallet","qty":0},
+               {"item":"nectar_vat","qty":10},
+               {"item":"puree_bin","qty":50},
+               {"item":"concentrate_bin","qty":10},
+               {"item":"tetrapak_batch","qty":10}
+            ],
+            "production_in_progress":[],
+            "staff":{ 
+               "num_staff":6, 
+               "individual_list":[]
+            }
+         },
+         {"location":"Vesoul", 
+            "purchase_in_progress":[],
+            "shipping_in_progress":[ 
+               {"item":"concentrate_bin", "qty":40, "delivery":1}
+            ],
+            "stock":[ 
+               {"item":"cordial_pallet","qty":0},
+               {"item":"cordial_vat","qty":10},
+               {"item":"concentrate_bin","qty":40},
+               {"item":"sugar_ton","qty":10},
+               {"item":"bottle_batch","qty":10}
+            ],
+            "production_in_progress":[],
+            "staff":{ 
+               "num_staff":6, 
+               "individual_list":[]
+            }
+         },
+         {"location":"Auckland",
+            "purchase_in_progress":[], 
+            "shipping_in_progress":[], 
+            "stock":[
+               {"item":"puree_bin","qty":60},
+               {"item":"concentrate_bin","qty":15},
+               {"item":"kiwi_lot","qty":0}
+            ],
+            "production_in_progress":[],
+            "staff":{ 
+               "num_staff":5,
+               "individual_list":[]
+            }
+         }
+      ]
+   }
+}

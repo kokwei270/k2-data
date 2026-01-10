@@ -1,9 +1,9 @@
 {
   "decision_files": [
     {
-      "filename": "",
-      "ts": 0,
-      "ts_elapse": ""
+      "filename": "decision_nouvelle 1.xlsx",
+      "ts": 1767964001806,
+      "ts_elapse": "1d 14h:15m 18s"
     },
     {
       "filename": "",
@@ -35,5 +35,29 @@
       "ts": 0,
       "ts_elapse": ""
     }
-  ]
+  ],
+  "options_list": [
+    "use_short_text",
+    "allow_rewffw",
+    "allow_replay"
+  ],
+  "status": {
+    "month_state": "LOADED",
+    "curr_month": 1,
+    "curr_month_str": "Sep 2024",
+    "month_str_list": [
+      "Aug 2024",
+      "Sep 2024"
+    ],
+    "begin_end": "end",
+    "decision_loaded": true,
+    "count_upload": 0,
+    "count_edit": 0,
+    "count_cancel": 0,
+    "count_login": 0,
+    "dump_month": 0,
+    "max_retry": 3,
+    "last_decision": 7,
+    "start_month": "Sep 2024"
+  }
 }

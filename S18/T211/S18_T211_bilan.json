@@ -450,17 +450,17 @@
     },
     "cumulmonth": {
       "month": 1,
-      "profit": 31268,
+      "profit": 17368,
       "income": 369000,
-      "costs": 337732,
-      "co2": 258548
+      "costs": 351632,
+      "co2": 272798
     },
     "thismonth": {
       "month": 1,
-      "profit": 31268,
+      "profit": 17368,
       "income": 369000,
-      "costs": 337732,
-      "co2": 258548
+      "costs": 351632,
+      "co2": 272798
     },
     "decision": {
       "auckland": {
@@ -1050,9 +1050,9 @@
         "month": 1,
         "location": "auckland",
         "puree_bin": 60,
-        "puree_bin_storage": 2400,
+        "puree_bin_storage": 1600,
         "concentrate_bin": 15,
-        "concentrate_bin_storage": 900,
+        "concentrate_bin_storage": 600,
         "kiwi_lot": -15,
         "kiwi_lot_storage": 0
       }
@@ -1158,7 +1158,7 @@
       "shipping": 15000,
       "salary": 51000,
       "staff_adjust": 0,
-      "factory_storage": 13561,
+      "factory_storage": 12461,
       "warehouse_storage": 10440
     }
   }
