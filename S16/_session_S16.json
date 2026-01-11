@@ -8,7 +8,8 @@
       "transport_file": "_params transport (2025)",
       "factory_file": "_params factory (standard)",
       "demand_file": "_demand (2025)",
-      "distances_file": "_distances (kemijarvi)"
+      "distances_file": "_distances (kemijarvi)",
+      "members_file": "_members (2025)"
    },
 
    "last_decision": 7,

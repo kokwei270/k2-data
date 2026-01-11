@@ -1,0 +1,43 @@
+{  "kiwi":"v2",
+   "id": 19, 
+   "ref": "Pierre 2026 @Vesoul",
+   "name": "Ghent, Belgium, 18-21 Mar 2026",
+   "remarks": "Joint groups, Belgium, Finland, France",
+
+   "setup_files": {
+      "state_file": "_starting situation (standard)",
+      "transport_file": "_params transport (standard)",
+      "factory_file": "_params factory (standard)",
+      "demand_file": "_demand (2025)",
+      "distances_file": "_distances (standard)",
+      "members_file": "_members (2025)"
+   },
+
+   "last_decision": 7,
+   "max_retry": 3,
+   "start_month": "Mar 2026",
+   "storage_cost_percent": 2,
+
+   "player_list":[
+      { "id":235, "player_ref":"Team 1" },
+      { "id":236, "player_ref":"Team 2" },
+      { "id":237, "player_ref":"Team 3" },
+      { "id":238, "player_ref":"Team 4" },
+      { "id":239, "player_ref":"Team 5" },
+      { "id":240, "player_ref":"Team 6" },
+      { "id":241, "player_ref":"Team 7" },
+      { "id":242, "player_ref":"Team 8" },
+      { "id":243, "player_ref":"Team 9" },
+      { "id":244, "player_ref":"Team 10" },
+      { "id":245, "player_ref":"Team 11" },
+      { "id":246, "player_ref":"Team 12" },
+      { "id":247, "player_ref":"Team 13" },
+      { "id":248, "player_ref":"Team 14" },
+      { "id":249, "player_ref":"Team 15" },
+      { "id":250, "player_ref":"Team 16" },
+      { "id":251, "player_ref":"Team 17" },
+      { "id":252, "player_ref":"Team 18" },
+      { "id":253, "player_ref":"Team 19" },
+      { "id":254, "player_ref":"Team 20" }
+   ]
+}
