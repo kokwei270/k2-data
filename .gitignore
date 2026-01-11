@@ -1,9 +1,10 @@
 # Ignore all .ldjson files
 *.ldjson
 .~*
-*replaced*
+*_T*
 *error*
 .directory
+player_T*
 
 # Ignore upload and download directories (anywhere in the repo)
 /uploads
