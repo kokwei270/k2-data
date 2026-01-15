@@ -1,43 +1,103 @@
-{  "kiwi":"v2",
-   "id": 17, 
-   "ref": "Vesoul IUT 2026 @Gent",
-   "name": "Ghent, Belgium, 18-21 Mar 2026",
-   "remarks": "Joint groups, Belgium, Finland, France",
-
-   "setup_files": {
-      "state_file": "_starting situation (standard)",
-      "transport_file": "_params transport (standard)",
-      "factory_file": "_params factory (standard)",
-      "demand_file": "_demand (2025)",
-      "distances_file": "_distances (standard)",
-      "members_file": "_members (2025)"
-   },
-
-   "last_decision": 7,
-   "max_retry": 3,
-   "start_month": "Mar 2026",
-   "storage_cost_percent": 2,
-
-   "player_list":[
-      { "id":185, "player_ref":"Team 1" },
-      { "id":186, "player_ref":"Team 2" },
-      { "id":187, "player_ref":"Team 3" },
-      { "id":188, "player_ref":"Team 4" },
-      { "id":189, "player_ref":"Team 5" },
-      { "id":190, "player_ref":"Team 6" },
-      { "id":191, "player_ref":"Team 7" },
-      { "id":192, "player_ref":"Team 8" },
-      { "id":193, "player_ref":"Team 9" },
-      { "id":194, "player_ref":"Team 10" },
-      { "id":195, "player_ref":"Team 11" },
-      { "id":196, "player_ref":"Team 12" },
-      { "id":197, "player_ref":"Team 13" },
-      { "id":198, "player_ref":"Team 14" },
-      { "id":199, "player_ref":"Team 15" },
-      { "id":200, "player_ref":"Team 16" },
-      { "id":201, "player_ref":"Team 17" },
-      { "id":202, "player_ref":"Team 18" },
-      { "id":203, "player_ref":"Team 19" },
-      { "id":204, "player_ref":"Team 20" }
-   ]
+{
+  "kiwi": "v2",
+  "id": 17,
+  "ref": "Vesoul IUT 2026 @Gent",
+  "name": "Ghent, Belgium, 18-21 Mar 2026",
+  "remarks": "Joint groups, Belgium, Finland, France",
+  "setup_files": {
+    "state_file": "_starting situation (standard)",
+    "transport_file": "_params transport (standard)",
+    "factory_file": "_params factory (standard)",
+    "demand_file": "_demand (2025)",
+    "distances_file": "_distances (standard)",
+    "members_file": "_members (2025)"
+  },
+  "last_decision": 7,
+  "max_retry": 3,
+  "start_month": "Mar 2026",
+  "storage_cost_percent": 2,
+  "player_list": [
+    {
+      "id": 185,
+      "player_ref": "Team 1"
+    },
+    {
+      "id": 186,
+      "player_ref": "Team 2"
+    },
+    {
+      "id": 187,
+      "player_ref": "Team 3"
+    },
+    {
+      "id": 188,
+      "player_ref": "Team 4"
+    },
+    {
+      "id": 189,
+      "player_ref": "Team 5"
+    },
+    {
+      "id": 190,
+      "player_ref": "Team 6"
+    },
+    {
+      "id": 191,
+      "player_ref": "Team 7"
+    },
+    {
+      "id": 192,
+      "player_ref": "Team 8"
+    },
+    {
+      "id": 193,
+      "player_ref": "Team 9"
+    },
+    {
+      "id": 194,
+      "player_ref": "Team 10"
+    },
+    {
+      "id": 195,
+      "player_ref": "Team 11"
+    },
+    {
+      "id": 196,
+      "player_ref": "Team 12"
+    },
+    {
+      "id": 197,
+      "player_ref": "Team 13"
+    },
+    {
+      "id": 198,
+      "player_ref": "Team 14"
+    },
+    {
+      "id": 199,
+      "player_ref": "Team 15"
+    },
+    {
+      "id": 200,
+      "player_ref": "Team 16"
+    },
+    {
+      "id": 201,
+      "player_ref": "Team 17"
+    },
+    {
+      "id": 202,
+      "player_ref": "Team 18"
+    },
+    {
+      "id": 203,
+      "player_ref": "Team 19"
+    },
+    {
+      "id": 204,
+      "player_ref": "Team 20"
+    }
+  ],
+  "session_ts": 1768509112398,
+  "session_datetime": "(2026 0116 0431)"
 }

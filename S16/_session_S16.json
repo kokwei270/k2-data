@@ -1,44 +1,103 @@
-{  "kiwi":"v2",
-   "id": 16, 
-   "ref": "Vesoul 2025 @Vesoul",
-   "name": "Vesoul, with Belgium and Finland, 18-21 Mar 2025",
-
-   "setup_files": {
-      "state_file": "_starting situation (2025)",
-      "transport_file": "_params transport (2025)",
-      "factory_file": "_params factory (standard)",
-      "demand_file": "_demand (2025)",
-      "distances_file": "_distances (kemijarvi)",
-      "members_file": "_members (2025)"
-   },
-
-   "last_decision": 7,
-   "max_retry": 3,
-   "start_month": "Mar 2025",
-   "storage_cost_percent": 2,
-      
-   "remarks": "Joint groups, Belgium, Finland, France",
-
-   "player_list":[
-      { "id":175, "player_ref":"Team 1" },
-      { "id":176, "player_ref":"Team 2" },
-      { "id":177, "player_ref":"Team 3" },
-      { "id":178, "player_ref":"Team 4" },
-      { "id":179, "player_ref":"Team 5" },
-      { "id":180, "player_ref":"Team 6" },
-      { "id":181, "player_ref":"Team 7" },
-      { "id":182, "player_ref":"Team 8" },
-      { "id":183, "player_ref":"Team 9" },
-      { "id":120, "player_ref":"Team 10" },
-      { "id":121, "player_ref":"Team 11" },
-      { "id":122, "player_ref":"Team 12" },
-      { "id":123, "player_ref":"Team 13" },
-      { "id":124, "player_ref":"Team 14" },
-      { "id":125, "player_ref":"Team 15" },
-      { "id":126, "player_ref":"Team 16" },
-      { "id":127, "player_ref":"Team 17" },
-      { "id":128, "player_ref":"Team 18" },
-      { "id":129, "player_ref":"Team 19" },
-      { "id":130, "player_ref":"Team 20" }
-   ]
+{
+  "kiwi": "v2",
+  "id": 16,
+  "ref": "Vesoul 2025 @Vesoul",
+  "name": "Vesoul, with Belgium and Finland, 18-21 Mar 2025",
+  "setup_files": {
+    "state_file": "_starting situation (2025)",
+    "transport_file": "_params transport (2025)",
+    "factory_file": "_params factory (standard)",
+    "demand_file": "_demand (2025)",
+    "distances_file": "_distances (kemijarvi)",
+    "members_file": "_members (2025)"
+  },
+  "last_decision": 7,
+  "max_retry": 3,
+  "start_month": "Mar 2025",
+  "storage_cost_percent": 2,
+  "remarks": "Joint groups, Belgium, Finland, France",
+  "player_list": [
+    {
+      "id": 175,
+      "player_ref": "Team 1"
+    },
+    {
+      "id": 176,
+      "player_ref": "Team 2"
+    },
+    {
+      "id": 177,
+      "player_ref": "Team 3"
+    },
+    {
+      "id": 178,
+      "player_ref": "Team 4"
+    },
+    {
+      "id": 179,
+      "player_ref": "Team 5"
+    },
+    {
+      "id": 180,
+      "player_ref": "Team 6"
+    },
+    {
+      "id": 181,
+      "player_ref": "Team 7"
+    },
+    {
+      "id": 182,
+      "player_ref": "Team 8"
+    },
+    {
+      "id": 183,
+      "player_ref": "Team 9"
+    },
+    {
+      "id": 120,
+      "player_ref": "Team 10"
+    },
+    {
+      "id": 121,
+      "player_ref": "Team 11"
+    },
+    {
+      "id": 122,
+      "player_ref": "Team 12"
+    },
+    {
+      "id": 123,
+      "player_ref": "Team 13"
+    },
+    {
+      "id": 124,
+      "player_ref": "Team 14"
+    },
+    {
+      "id": 125,
+      "player_ref": "Team 15"
+    },
+    {
+      "id": 126,
+      "player_ref": "Team 16"
+    },
+    {
+      "id": 127,
+      "player_ref": "Team 17"
+    },
+    {
+      "id": 128,
+      "player_ref": "Team 18"
+    },
+    {
+      "id": 129,
+      "player_ref": "Team 19"
+    },
+    {
+      "id": 130,
+      "player_ref": "Team 20"
+    }
+  ],
+  "session_ts": 1768509112398,
+  "session_datetime": "(2026 0116 0431)"
 }
