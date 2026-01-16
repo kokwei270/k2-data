@@ -10,7 +10,7 @@
     "factory_file": "_params factory (standard)",
     "demand_file": "_demand (2025)",
     "distances_file": "_distances (standard)",
-    "members_file": "_members (2025)"
+    "members_file": "_members (2026)"
   },
   "last_decision": 7,
   "max_retry": 3,
