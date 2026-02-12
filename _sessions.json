@@ -1,11 +1,11 @@
 {  "kiwi":"v2",
    "session_list":[
-      { "id": 14, "is_active": false },
-      { "id": 15, "is_active": true },
-      { "id": 16, "is_active": true },
-      { "id": 17, "is_active": true },
-      { "id": 18, "is_active": true },
-      { "id": 19, "is_active": true }
+      { "id":14, "is_active":false, "is_public":true },
+      { "id":15, "is_active":true, "is_public":true },
+      { "id":16, "is_active":true, "is_public":true },
+      { "id":17, "is_active":true, "is_public":true},
+      { "id":18, "is_active":true, "is_public":true },
+      { "id":19, "is_active":true, "is_public":true }
    ],
    "archive_list":[]
 }
