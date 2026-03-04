@@ -11,3 +11,5 @@ player_T*
 /uploads
 /downloads
 
+# ! = un-ignore
+!S15/*/*decision*
