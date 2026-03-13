@@ -12,4 +12,7 @@ player_T*
 /downloads
 
 # ! = un-ignore
-!S15/*/*decision*
+!S15/*/*_decision_*
+!S16/*/*_decision_*
+*_replaced_*
+

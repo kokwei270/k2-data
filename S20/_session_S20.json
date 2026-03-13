@@ -1,0 +1,49 @@
+{
+  "kiwi": "v2",
+  "id": 20,
+  "ref": "IUT Vesoul 2026 @Vesoul",
+  "name": "Gent/Vesoul, Belgium, 18-21 Mar 2026",
+  "remarks": "supplementary session",
+  "setup_files": {
+    "state_file": "_starting situation (standard)",
+    "transport_file": "_params transport (standard)",
+    "factory_file": "_params factory (standard)",
+    "demand_file": "_Demand2026",
+    "distances_file": "_distances (standard)",
+    "members_file": "_members (2026)"
+  },
+  "last_decision": 7,
+  "max_retry": 3,
+  "start_month": "Mar 2026",
+  "storage_cost_percent": 2,
+  "player_list": [
+    {
+      "id": 260,
+      "player_ref": "Team 1"
+    },
+    {
+      "id": 261,
+      "player_ref": "Team 2"
+    },
+    {
+      "id": 262,
+      "player_ref": "Team 3"
+    },
+    {
+      "id": 263,
+      "player_ref": "Team 4"
+    },
+    {
+      "id": 264,
+      "player_ref": "Team 5"
+    },
+    {
+      "id": 265,
+      "player_ref": "Team 6"
+    },
+    {
+      "id": 266,
+      "player_ref": "Team 7"
+    }
+  ]
+}
