@@ -7,6 +7,9 @@
 .directory
 player_T*
 
+# main file, less public sessions on deployment server
+_sessions.json
+
 # Ignore upload and download directories (anywhere in the repo)
 /uploads
 /downloads

@@ -10,7 +10,7 @@
     "factory_file": "_params factory (standard)",
     "demand_file": "_Demand2026",
     "distances_file": "_distances (standard)",
-    "members_file": "_members (2026)"
+    "members_file": "_members (Vesoul 2026)"
   },
   "last_decision": 7,
   "max_retry": 3,
