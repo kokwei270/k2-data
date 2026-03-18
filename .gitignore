@@ -1,5 +1,7 @@
-# Ignore all .ldjson files
+# ignore all .ldjson files
 *.ldjson
+
+# ignore working files, ie. created by server from session startup
 .~*
 *_T*
 *error*
@@ -7,15 +9,14 @@
 .directory
 player_T*
 
-# main file, less public sessions on deployment server
-_sessions.json
-
-# Ignore upload and download directories (anywhere in the repo)
+# ignore upload and download directories (anywhere in the repo)
 /uploads
 /downloads
 
-# ! = un-ignore
+# ! = un-ignore standard test data
 !S15/*/*_decision_*
 !S16/*/*_decision_*
 *_replaced_*
 
+# main file, less public sessions on deployment server
+_sessions.json
