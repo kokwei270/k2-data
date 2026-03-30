@@ -8,6 +8,7 @@
 *_var*
 .directory
 player_T*
+*(bak*
 
 # ignore upload and download directories (anywhere in the repo)
 /uploads
