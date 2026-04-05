@@ -1,5 +1,5 @@
 {  "admin_list":[
-      { "email":"kokwei.fong@gmail.com", "passcode":2222 },
-      { "email":"kw2" }
+      { "username":"kokwei.fong@gmail.com", "passcode":2222 },
+      { "username":"kw2" }
    ]
 }

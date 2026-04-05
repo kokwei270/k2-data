@@ -16,18 +16,9 @@
   "max_retry": 3,
   "start_month": "Mar 2026",
   "storage_cost_percent": 2,
-  "player_list": [
-    {
-      "id": 260,
-      "player_ref": "Team 1"
-    },
-    {
-      "id": 261,
-      "player_ref": "Team 2"
-    },
-    {
-      "id": 262,
-      "player_ref": "Team 3"
-    }
-  ]
+   "players_define": {
+      "start_id": 260,
+      "num_player": 3,
+      "name_prefix": "Team"
+  }
 }
