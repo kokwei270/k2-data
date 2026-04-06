@@ -11,8 +11,8 @@
     "state_file": "_S15_initial_state_thursday_2024",
     "transport_file": "_S15_transport_kemijarvi",
     "demand_file": "_S15_demand",
-    "factory_file": "_S14_factory",
-    "members_file": "_members_s15"
+    "factory_file": "_S15_factory",
+    "members_file": "_S15_members"
   },
    "players_define": {
       "start_id": 155,

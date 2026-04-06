@@ -6,11 +6,11 @@
   "remarks": "Joint groups, Belgium, Finland, France",
   "setup_files": {
     "state_file": "_starting situation (standard)",
-    "transport_file": "_params transport (standard)",
-    "factory_file": "_params factory (standard)",
-    "demand_file": "_demand (2025)",
-    "distances_file": "_distances (standard)",
-    "members_file": "_members (2025)"
+    "transport_file": "_S18_params transport (standard)",
+    "factory_file": "_S18_params factory (standard)",
+    "demand_file": "_S18_demand (2025)",
+    "distances_file": "_S18_distances (standard)",
+    "members_file": "_S18_members (2025)"
   },
   "last_decision": 7,
   "max_retry": 3,
